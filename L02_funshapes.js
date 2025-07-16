@@ -12,7 +12,7 @@ function draw() {
 // ellipse(300, 200, 150, 250);
 // ellipse(300, 200, 150, 100);
 // eye code above
-fill("Brown");
+fill("lemon");
 rect(300, 200, 400, 200);
 // ellipse(x, y, width, height);
 // circle(x, y, diameter);
