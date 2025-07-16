@@ -14,7 +14,7 @@ function draw() {
 // eye code above
 fill("Lavender");
 // for the middle : rect(150, 100, 300, 200);
-// for the middle : ellipse(x, y, width, height);
+// ellipse(x, y, width, height);
 // circle(x, y, diameter);
 // rect(x, y, width, height);
 // triangle(x1, y1, x2, y2, x3, y3)
