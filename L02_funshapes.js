@@ -17,6 +17,7 @@ fill("Lavender");
 // ellipse(x, y, width, height);
 // circle(x, y, diameter);
 // rect(x, y, width, height);
+// triangle(x1, y1, x2, )
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
