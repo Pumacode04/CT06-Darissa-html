@@ -9,6 +9,7 @@ function draw() {
   // Challenge 1: An eye using ellipse() function
 fill("Lavender");
 ellipse(300, 200, 500, 250);
+ellipse(300, 200, )
 // ellipse(x, y, width, height);
 // circle(x, y, diameter);
 // rect(x, y, width, height);
