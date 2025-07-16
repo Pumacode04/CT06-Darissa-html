@@ -7,7 +7,7 @@ function setup(){
 }
 function draw() {
   // Challenge 1: An eye using ellipse() function
-fill("Lavender");
+fill("Lemon");
 ellipse(300, 200, 150, 150);
 // ellipse(x, y, width, height)
 // circle(x, y, diameter)
