@@ -10,7 +10,7 @@ function draw() {
 fill("Lavender");
 ellipse(300, 200, 500, 250);
 ellipse(300, 200, 150, 250);
-ellipse(300, 200, 150)
+ellipse(300, 200, 50, 50);
 // ellipse(x, y, width, height);
 // circle(x, y, diameter);
 // rect(x, y, width, height);
