@@ -15,7 +15,7 @@ function draw() {
 // fill("Lavender");
 // fill("Lavender");
   ellipse(300, 200, 500, 250);
-  fill("")
+  fill("Blue")
   ellipse(300, 200, 150, 250);
   ellipse(300, 200, 150, 100)
 // eye code above
