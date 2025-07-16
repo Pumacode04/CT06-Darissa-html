@@ -2,12 +2,12 @@
 Task 1: Add the setup() function
 */
 function setup(){
-  createCanvas(600, 400)
+  createCanvas(600, 400);
   background(235);
 }
 function draw() {
   // Challenge 1: An eye using ellipse() function
-FileList("Violet")
+FileList("Violet");
 ellipse(50, 50, 50, 50);
   // Challenge 2: A face using circle() function
 
