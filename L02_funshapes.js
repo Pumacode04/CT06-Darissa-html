@@ -10,6 +10,7 @@ function draw() {
 Fill("Lavender");
 ellipse(300, 200, 150, 150);
 // ellipse(x, y, width, height)
+// Circle
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
