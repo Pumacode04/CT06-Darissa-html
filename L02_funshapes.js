@@ -12,6 +12,8 @@ fill("Lavender");
 // ellipse(300, 200, 150, 250);
 // ellipse(300, 200, 150, 100);
 // ellipse(x, y, width, height);
+// eye code above
+
 // circle(x, y, diameter);
 // rect(x, y, width, height);
   // Challenge 2: A face using circle() function
