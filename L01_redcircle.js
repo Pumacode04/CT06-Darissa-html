@@ -9,4 +9,4 @@ function draw(){
     
     // Todo: Challenge 3 Traffic Light
 }
-//! R
+//! Red, Green, Blue.
