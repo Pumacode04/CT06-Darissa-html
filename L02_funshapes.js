@@ -17,14 +17,14 @@ function draw() {
 // ellipse(300, 200, 150, 250);
 // ellipse(300, 200, 150, 100);
 // eye code above
+fill("Lavender");
+  triangle(60, 60, 60, 60, 60, 60);
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
-  ;
-fill("Lavender");
-  triangle(60, 60, 60, 60, 60, 60)
+  
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
