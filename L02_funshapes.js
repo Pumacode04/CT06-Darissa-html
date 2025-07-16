@@ -17,7 +17,7 @@ function draw() {
 // ellipse(300, 200, 150, 250);
 // ellipse(300, 200, 150, 100);
 // eye code above
-noStroke("Lavender");
+stroke("Lavender");
   triangle(50, 70, 150, 70, 80, 25);
   // Challenge 2: A face using circle() function
 
