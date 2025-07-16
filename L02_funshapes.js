@@ -14,10 +14,11 @@ function draw() {
   // Challenge 1: An eye using ellipse() function
 // fill("Lavender");
 // fill("Lavender");
+fill("")
   ellipse(300, 200, 500, 250);
   fill("Blue")
   ellipse(300, 200, 150, 250);
-  fill("")
+  fill("Black")
   ellipse(300, 200, 150, 100);
 // eye code above
 //fill("Lavender");
