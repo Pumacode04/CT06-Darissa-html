@@ -22,7 +22,7 @@ function draw() {
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
-  fill
+  fill("Lavender")
   triangle(60, 60, 60, 60, 60, 60)
 
   // Challenge 5: A square face using quad() function
