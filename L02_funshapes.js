@@ -1,7 +1,11 @@
 /*
 Task 1: Add the setup() function
 */
-
+// for the middle : rect(150, 100, 300, 200);
+// ellipse(x, y, width, height);
+// circle(x, y, diameter);
+// rect(x, y, width, height);
+// triangle(x1, y1, x2, y2, x3, y3)
 function setup(){
   createCanvas(600, 400);
   background(235);
