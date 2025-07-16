@@ -16,10 +16,10 @@ function draw() {
 // fill("Lavender");
 //  fill("White")
 //  ellipse(300, 200, 500, 250);
-  fill("Blue")
-  ellipse(300, 200, 150, 250);
-  fill("Black")
-  ellipse(300, 200, 150, 100);
+//  fill("Blue")
+//  ellipse(300, 200, 150, 250);
+//  fill("Black")
+//  ellipse(300, 200, 150, 100);
 // eye code above
 //fill("Lavender");
 //triangle(50, 70, 150, 70, 80, 25);
