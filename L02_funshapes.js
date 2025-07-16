@@ -18,7 +18,7 @@ function draw() {
 // ellipse(300, 200, 150, 100);
 // eye code above
   fill("Lavender");
-  triangle(50, 70, 80, 20, 60, 60);
+  triangle(50, 70, 80, 20, 65, 60);
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
