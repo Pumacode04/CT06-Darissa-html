@@ -13,7 +13,7 @@ function draw() {
 // ellipse(300, 200, 150, 100);
 // ellipse(x, y, width, height);
 // eye code above
-FileList()
+FileList("")
 // circle(x, y, diameter);
 // rect(x, y, width, height);
   // Challenge 2: A face using circle() function
