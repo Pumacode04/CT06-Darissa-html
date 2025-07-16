@@ -7,7 +7,7 @@ function setup(){
 }
 function draw() {
   // Challenge 1: An eye using ellipse() function
-Fill("Purple");
+Fill("Lemon");
 ellipse(50, 50, 50, 50);
   // Challenge 2: A face using circle() function
 
