@@ -14,8 +14,8 @@ function draw() {
   // Challenge 1: An eye using ellipse() function
 // fill("Lavender");
 // fill("Lavender");
-  ellipse(300, 200, 500, 250)
-  ellipse(300, 200, )
+  ellipse(300, 200, 500, 250);
+  ellipse(300, 200, 250, 150);
 // eye code above
 //fill("Lavender");
 //triangle(50, 70, 150, 70, 80, 25);
