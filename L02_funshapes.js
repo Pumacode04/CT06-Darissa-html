@@ -36,7 +36,7 @@ quad(20, 100, 170, 50, 170, 150, 20, 150);
 // quad(400, 100, 300, 50, 500, 50, 400, 200);
 quad(200, 100, 250)
 // stoke(r, g, b); colour for outline
-// strokeWeight
+// strokeWeight(num); 
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
