@@ -22,14 +22,11 @@ function draw() {
 //    circle(spacing + i*spacing, 200, 40);
 //}
   // Task 2: Colour Loop
-for(i=0; i<5; i++) {
-    fill(colourValue%255);
-    circle(spacing + i*spacing, 200, 40);
-    colourValue +=1;
-}
-
-
-
+//for(i=0; i<5; i++) {
+//    fill(colourValue%255);
+//    circle(spacing + i*spacing, 200, 40);
+//    colourValue +=1;
+//}
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
