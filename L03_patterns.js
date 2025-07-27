@@ -11,7 +11,7 @@ function draw() {
 //circle(375, 200, 100);
 //circle(525, 200, 100);
 for(i=0; i<4; i++) {
-    CSSNumericValue(i)
+    circle
 }
   // Task 1: Colour Gradient
 
