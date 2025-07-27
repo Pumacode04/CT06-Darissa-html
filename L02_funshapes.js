@@ -31,7 +31,7 @@ function draw() {
   
   // Challenge 5: A square face using quad() function
 fill("Lavender");
-rect(20, 50, )
+rect(20, 50, 120, 50, )
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
