@@ -20,7 +20,6 @@ function draw() {
 //for(i=0; i<5; i++) {
 //  fill(i*spacing);
 //    circle(spacing + i*spacing, 200, 40);
-//    colourValue +=1;
 //}
   // Task 2: Colour Loop
 for(i=0; i<5; i++) {
