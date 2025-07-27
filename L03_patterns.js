@@ -19,6 +19,7 @@ function draw() {
 for(i=0; i<5; i++) {
   fill(colourValue%255);
     circle(spacing + i*spacing, 200, 40);
+    colourValue
 }
   // Task 2: Colour Loop
 
