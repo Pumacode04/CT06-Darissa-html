@@ -34,7 +34,7 @@ fill("Lavender");
 quad(20, 100, 170, 50, 170, 150, 20, 150);
 // fill("Red")
 // quad(400, 100, 300, 50, 500, 50, 400, 200);
-quad
+quad()
 
   // Challenge 6: Add some colours to the drawings in the above challenges
 
