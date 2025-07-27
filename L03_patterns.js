@@ -1,5 +1,5 @@
 let spacing = 50
-
+let colourvalue
 function setup() {
     createCanvas(600, 400);
     background(220);
