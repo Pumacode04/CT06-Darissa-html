@@ -1,5 +1,5 @@
 let spacing = 50;
-let colorValue = 0;
+let colourValue = 0;
 
 function setup() {
     createCanvas(600, 400);
@@ -22,11 +22,11 @@ function draw() {
 //    circle(spacing + i*spacing, 200, 40);
 //}
   // Task 2: Colour Loop
-// for(i=0; i<5; i++) {
-//     fill(colourValue%255);
-//     circle(spacing + i*spacing, 200, 40);
-//     colourValue +=1;
-// }
+for(i=0; i<5; i++) {
+    fill(colourValue%255);
+    circle(spacing + i*spacing, 200, 40);
+    colourValue +=1;
+}
 
 
 
