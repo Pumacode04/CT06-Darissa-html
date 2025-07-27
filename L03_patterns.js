@@ -27,6 +27,14 @@ for(i=0; i<5; i++) {
     circle(spacing + i*spacing, 200, 40);
     colourValue +=1;
 }
+
+    for(let i=0; i<4; i++) {
+        //fill(i*spacing);
+        fill(colorValue%255);
+        circle(spacing + i*spacing, 200, 40);
+        colorValue +=1; 
+    }
+
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
