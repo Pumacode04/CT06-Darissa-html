@@ -1,10 +1,10 @@
 let spacing = 50;
-let colourValue = 0;
+let colorValue = 0;
 
 function setup() {
     createCanvas(600, 400);
     background(220);
-    noLoop(); // Stops continuous drawing
+    //noLoop(); // Stops continuous drawing
   }
   
 function draw() {
@@ -22,13 +22,18 @@ function draw() {
 //    circle(spacing + i*spacing, 200, 40);
 //}
   // Task 2: Colour Loop
-for(i=0; i<5; i++) {
-    fill(colourValue%255);
-    circle(spacing + i*spacing, 200, 40);
-    colourValue +=1;
-}
+// for(i=0; i<5; i++) {
+//     fill(colourValue%255);
+//     circle(spacing + i*spacing, 200, 40);
+//     colourValue +=1;
+// }
 
-
+    for(let i=0; i<4; i++) {
+        //fill(i*spacing);
+        fill(colorValue%255);
+        circle(spacing + i*spacing, 200, 40);
+        colorValue +=1; 
+    }
 
   // Task 3: Row of Circles
 
