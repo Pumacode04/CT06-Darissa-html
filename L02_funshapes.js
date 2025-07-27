@@ -30,7 +30,7 @@ function draw() {
   // Challenge 4: A rocketship using triangle() function
   
   // Challenge 5: A square face using quad() function
-Fill("Lavender");
+fill("Lavender");
 
   // Challenge 6: Add some colours to the drawings in the above challenges
 
