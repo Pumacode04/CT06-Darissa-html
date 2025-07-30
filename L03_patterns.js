@@ -27,6 +27,7 @@ for(i=0; i<5; i++){
   fill(0, greenValue, 0)
   let x = x + (x * i)
   circle(x, x, 100)
+  let green
 }
   // Task 2: Colour Loop
 //for(i=0; i<5; i++) {
