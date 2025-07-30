@@ -8,8 +8,8 @@ function setup() {
     background(200);
 }
 
-//let diameter = 100
-let diameter = 25
+////let diameter = 100
+///let diameter = 25
 
 function draw() {
 ////    fill(shapeColor);
