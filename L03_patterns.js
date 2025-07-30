@@ -37,10 +37,10 @@ function draw() {
 //    colourValue +=1;
 //}
   // Task 3: Row of Circles
-fill(255, 255, 255);
-rect(0, 50, 200, 100);
-noStroke();
-fill(255, 0, 0);
+//fill(255, 255, 255);
+//rect(0, 50, 200, 100);
+//noStroke();
+//fill(255, 0, 0);
 circle(100, 100, 50);
 //Japan flag above
   // Task 4: Grid of Circles
