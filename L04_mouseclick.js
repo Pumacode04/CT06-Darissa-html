@@ -11,4 +11,6 @@ function draw() {
 
 }
 
-function mouseReleased
+function mouseReleased() {
+    shapeColor
+}
