@@ -1,1 +1,3 @@
 //print("Welcome to lesson 4!")
+
+let shapeColour
