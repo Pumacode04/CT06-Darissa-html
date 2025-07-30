@@ -10,7 +10,7 @@ function setup() {
 
 function draw() {
     fill(shapeColor);
-    circle(100, 100, 100);
+    circle(300, 200, 100);
 }
 
 function mousePressed() {
