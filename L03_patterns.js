@@ -22,7 +22,9 @@ function draw() {
 //    circle(spacing + i*spacing, 200, 40);
 //}
 let x = 100
+let greenValue = 0
 for(i=0; i<5; i++){
+  
   let x = x + (x * i)
   circle(x, x, 100)
 }
