@@ -4,5 +4,7 @@ let shapeColour = "blue"
 
 
 function setup() {
-    
+
 }
+
+function draw() {}
