@@ -29,7 +29,7 @@ for(let i=1; i<6; i++){
   circle(x, x, 50);
   greenValue = greenValue + 51;
 }
-//Rem
+//Reminder : complete above :)
   // Task 2: Colour Loop
 //for(i=0; i<5; i++) {
 //    fill(colourValue%255);
