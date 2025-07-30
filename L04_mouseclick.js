@@ -12,6 +12,7 @@ function setup() {
 function draw() {
     fill(shapeColor);
     circle(300, 200, diameter);
+    
 }
 
 function mousePressed() {
