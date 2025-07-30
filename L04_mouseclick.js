@@ -25,9 +25,10 @@ function mousePressed() {
 ////    shapeColor = color( random(255), random(255), random(255));
 ////    diameter = diameter + 10;
 ////    if (diameter > 500) diameter = 100;
-shapeC
+shapeColor( random(255), random(255), random(255))
 }
 
 function mouseReleased() {
 ////    shapeColor = "blue";
+s
 }
