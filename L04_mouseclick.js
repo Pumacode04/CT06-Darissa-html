@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-    fill(shapeColor)
+    fill(shapeColor);
     circle(100, 100, 100);
 }
 
