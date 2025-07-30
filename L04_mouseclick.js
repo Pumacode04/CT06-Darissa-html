@@ -1,3 +1,8 @@
 //print("Welcome to lesson 4!")
 
-let shapeColour = 
+let shapeColour = "blue"
+
+
+function setup() {
+    
+}
