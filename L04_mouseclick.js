@@ -1,1 +1,1 @@
-// print("Welcome to lesson 4!")
+print("Welcome to lesson 4!")
