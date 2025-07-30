@@ -21,15 +21,14 @@ function draw() {
 //  fill(i*spacing);
 //    circle(spacing + i*spacing, 200, 40);
 //}
-let x = 50;
-let greenValue = 0;
-for(let i=1; i<6; i++){
-  fill(0, greenValue, 0);
-  x = x + (x * i);
-  circle(x, x, 50);
-  greenValue = greenValue + 51;
-}
-
+//let x = 50;
+//let greenValue = 0;
+//for(let i=1; i<6; i++){
+//  fill(0, greenValue, 0);
+//  x = x + (x * i);
+//  circle(x, x, 50);
+//  greenValue = greenValue + 51;
+//}
 //Reminder : complete above :)
   // Task 2: Colour Loop
 //for(i=0; i<5; i++) {
@@ -40,4 +39,11 @@ for(let i=1; i<6; i++){
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
+let x = 50;
+for(let i=0; i<5; i++){
+    fill(0);
+    if(i%2 === 0) fill(255);
+    rect(x, 50, 50, 50);
+    x = x + 60
+}
 }
