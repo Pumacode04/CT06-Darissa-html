@@ -41,7 +41,7 @@ function draw() {
 //rect(0, 50, 200, 100);
 //noStroke();
 //fill(255, 0, 0);
-circle(100, 100, 50);
+//circle(100, 100, 50);
 //Japan flag above
   // Task 4: Grid of Circles
 //let x = 50;
