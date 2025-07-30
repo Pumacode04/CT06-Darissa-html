@@ -32,3 +32,7 @@ function mouseReleased() {
 ////    shapeColor = "blue";
 //shapeColor = "white";
 }
+
+function mouseMoved() {
+    
+}
