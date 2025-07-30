@@ -12,7 +12,7 @@ let diameter = 100
 function draw() {
     fill(shapeColor);
     circle(300, 200, diameter);
-}
+
 
 function mousePressed() {
     shapeColor = "red";
@@ -22,4 +22,5 @@ function mousePressed() {
 
 function mouseReleased() {
     shapeColor = "blue";
+}
 }
