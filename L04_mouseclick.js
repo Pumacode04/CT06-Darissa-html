@@ -18,7 +18,7 @@ function draw() {
 ///    fill(50, 50);
 ///    circle(mouseX, mouseY, diameter);
 /// uh playing doodle
-CSSNumericValue( random(255), random(255), random(255))
+CSSNumericValue( random(255), random(255), random(255));
 }
 
 function mousePressed() {
