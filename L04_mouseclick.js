@@ -21,4 +21,5 @@ function mousePressed() {
 
 function mouseReleased() {
     shapeColor = "blue";
+    diameter = 
 }
