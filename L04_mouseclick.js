@@ -30,5 +30,5 @@ shapeColor( random(255), random(255), random(255))
 
 function mouseReleased() {
 ////    shapeColor = "blue";
-s
+shapeColor = 
 }
