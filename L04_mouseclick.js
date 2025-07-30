@@ -18,6 +18,7 @@ function draw() {
 ///    fill(50, 50);
 ///    circle(mouseX, mouseY, diameter);
 /// uh playing doodle
+circle
 }
 
 function mousePressed() {
