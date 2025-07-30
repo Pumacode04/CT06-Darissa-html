@@ -23,7 +23,7 @@ function draw() {
 //}
 let x = 100
 for(i=0; i<5; i++){
-  circle()
+  circle(x, )
 }
   // Task 2: Colour Loop
 //for(i=0; i<5; i++) {
