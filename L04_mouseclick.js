@@ -13,7 +13,8 @@ function draw() {
     fill(shapeColor);
     circle(300, 200, diameter);
     noStroke();
-    
+    fill(50, 50);
+    circle(mouseX, mouseY)
 }
 
 function mousePressed() {
