@@ -14,7 +14,7 @@ function draw() {
     circle(300, 200, diameter);
     noStroke();
     fill(50, 50);
-    circle(mouseX, mouseY, mouseZ)
+    circle(mouseX, mouseY, diameter)
 }
 
 function mousePressed() {
