@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-    
+    FileList(shapeColor)
 }
 
 function mouseReleased() {
