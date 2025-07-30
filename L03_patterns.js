@@ -37,7 +37,6 @@ function draw() {
 //    colourValue +=1;
 //}
   // Task 3: Row of Circles
-noStroke();
 fill(255, 255, 255);
 rect(0, 50, 200, 100);
 noStroke();
