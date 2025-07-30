@@ -13,7 +13,7 @@ let diameter = 25
 
 function draw() {
     fill(shapeColor);
-    circle(300, 200, diameter);
+//    circle(300, 200, diameter);
     noStroke();
     fill(50, 50);
     circle(mouseX, mouseY, diameter);
