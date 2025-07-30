@@ -8,7 +8,8 @@ function setup() {
 }
 
 function draw() {
-    FileList(shapeColor)
+    fill(shapeColor)
+    circle
 }
 
 function mouseReleased() {
