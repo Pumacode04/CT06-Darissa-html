@@ -2,7 +2,7 @@ let spacing = 50;
 let colourValue = 0;
 
 function setup() {
-    createCanvas(200, 800);
+    createCanvas(200, 200);
     background(220);
     //noLoop(); // Stops continuous drawing
   }
@@ -37,7 +37,7 @@ function draw() {
 //    colourValue +=1;
 //}
   // Task 3: Row of Circles
-
+React()
   // Task 4: Grid of Circles
 //let x = 50;
 //for(let i=0; i<5; i++){
