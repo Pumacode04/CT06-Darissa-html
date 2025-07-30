@@ -12,5 +12,5 @@ function draw() {
 }
 
 function mouseReleased() {
-    shapeColor
+    shapeColor = "blue"
 }
