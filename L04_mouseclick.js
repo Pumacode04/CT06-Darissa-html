@@ -12,7 +12,7 @@ function setup() {
 ///let diameter = 25
 
 function draw() {
-////    fill(shapeColor);
+    fill(shapeColor);
 ////    circle(300, 200, diameter);
 ///    noStroke();
 ///    fill(50, 50);
