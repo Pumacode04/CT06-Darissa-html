@@ -6,7 +6,7 @@ let shapeColor = "blue";
 function setup() {
     createCanvas(600, 400);
     background(200);
-    fill(shapecolor)
+    fill(shapeColor)
 }
 
 ////let diameter = 100
@@ -35,6 +35,7 @@ function mouseReleased() {
 }
 
 function mouseMoved() {
+    
     ellipse(mouseX, mouseY, 10, 10);
     shapeColor = color( random(255), random(255), random(255));
 }
