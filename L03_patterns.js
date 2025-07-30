@@ -21,7 +21,7 @@ function draw() {
 //  fill(i*spacing);
 //    circle(spacing + i*spacing, 200, 40);
 //}
-let 
+let x = 0
 for(i=0; i<5; i++){
   
 }
