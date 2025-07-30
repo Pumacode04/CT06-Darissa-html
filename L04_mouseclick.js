@@ -16,10 +16,10 @@ function draw() {
 
 function mousePressed() {
     shapeColor = "red";
-    diameter = 100 + 5
+    diameter = 100 + 10;
 }
 
 function mouseReleased() {
     shapeColor = "blue";
-    diameter = 100
+    diameter = 100;
 }
