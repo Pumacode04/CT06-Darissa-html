@@ -21,8 +21,9 @@ function draw() {
 //  fill(i*spacing);
 //    circle(spacing + i*spacing, 200, 40);
 //}
+let 
 for(i=0; i<5; i++){
-  circle(100 + )
+  
 }
   // Task 2: Colour Loop
 //for(i=0; i<5; i++) {
