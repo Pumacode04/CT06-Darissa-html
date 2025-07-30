@@ -23,7 +23,7 @@ function draw() {
 //}
 let x = 100;
 let greenValue = 0;
-for(i=0; i<5; i++){
+for(let i=0; i<5; i++){
   fill(0, greenValue, 0);
   x = x + (x * i);
   circle(x, x, 100);
