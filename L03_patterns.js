@@ -22,7 +22,7 @@ function draw() {
 //    circle(spacing + i*spacing, 200, 40);
 //}
 for(i=0; i<5; i++){
-  
+  CSSNumericValue()
 }
   // Task 2: Colour Loop
 //for(i=0; i<5; i++) {
