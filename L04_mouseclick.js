@@ -12,13 +12,13 @@ function setup() {
 ///let diameter = 25
 
 function draw() {
-    fill(shapeColor);
+/// n //    fill(shapeColor);
 ////    circle(300, 200, diameter);
 ///    noStroke();
 ///    fill(50, 50);
 ///    circle(mouseX, mouseY, diameter);
 /// uh playing doodle
-circle(300, 200, 100)
+//circle(300, 200, 100)
 }
 
 function mousePressed() {
