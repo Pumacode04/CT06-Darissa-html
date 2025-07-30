@@ -21,8 +21,8 @@ function draw() {
 //  fill(i*spacing);
 //    circle(spacing + i*spacing, 200, 40);
 //}
-let x = 100
-let greenValue = 0
+let x = 100;
+let greenValue = 0;
 for(i=0; i<5; i++){
   fill(0, greenValue, 0)
   x = x + (x * i)
