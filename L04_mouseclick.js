@@ -13,6 +13,10 @@ function draw() {
     circle(100, 100, 100);
 }
 
+function mousePressed() {
+    
+}
+
 function mouseReleased() {
     shapeColor = "blue";
 }
