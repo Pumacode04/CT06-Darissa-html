@@ -21,12 +21,12 @@ function draw() {
 //  fill(i*spacing);
 //    circle(spacing + i*spacing, 200, 40);
 //}
-let x = 100;
+let x = 50;
 let greenValue = 0;
 for(let i=0; i<5; i++){
   fill(0, greenValue, 0);
   x = x + (x * i);
-  circle(x, x, 100);
+  circle(x, x, 50);
   greenValue = greenValue + 51;
 }
   // Task 2: Colour Loop
