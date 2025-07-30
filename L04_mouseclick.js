@@ -17,9 +17,9 @@ function draw() {
 function mousePressed() {
     shapeColor = "red";
     diameter = 100 + 10;
+    if (diameter > 500) diameter = 100;
 }
 
 function mouseReleased() {
     shapeColor = "blue";
-    diameter = 100;
 }
