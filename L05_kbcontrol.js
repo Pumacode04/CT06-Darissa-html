@@ -22,5 +22,5 @@ function mouseDragged() {
 }
 
 function keyPressed() {
-    
+    rectSize = 100
 }
