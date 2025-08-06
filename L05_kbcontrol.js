@@ -3,7 +3,8 @@
 //#let size = 5;
 //!let rectSize = 50
 function setup() {
-//1 and     createCanvas(600, 400);
+//! and #    createCanvas(600, 400);
+    
     background(200);
 }
 
