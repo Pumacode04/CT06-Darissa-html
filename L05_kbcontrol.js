@@ -1,4 +1,5 @@
 // write your codes here
+
 function setup() {
     createCanvas(600, 400);
     background(200);
@@ -12,7 +13,7 @@ function mousePressed() {
     shapeColor = color( random(255), random(255), random(255));
     size = 5
 }
-let size = 5;
+
 function mouseDragged() {
     circle(mouseX, mouseY, size);
     size = size + 0.5;
