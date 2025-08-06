@@ -40,4 +40,6 @@ function mouseMoved() {
 //#    ellipse(mouseX, mouseY, 10, 10);
 }
 
-function mouseDragged() {}
+function mouseDragged() {
+    
+}
