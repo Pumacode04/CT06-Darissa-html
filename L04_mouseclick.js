@@ -37,5 +37,5 @@ function mouseMoved() {
 //#    noStroke();
 //#    shapeColor = color( random(255), random(255), random(255));
 //#    fill(shapeColor);
-//    ellipse(mouseX, mouseY, 10, 10);
+//#    ellipse(mouseX, mouseY, 10, 10);
 }
