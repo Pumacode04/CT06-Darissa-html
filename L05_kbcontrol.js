@@ -21,4 +21,6 @@ function mouseDragged() {
 //#    size = size + 0.5;
 }
 
-function keyPress() {}
+function keyPressed() {
+    
+}
