@@ -1,6 +1,6 @@
 //print("Welcome to lesson 4!")
 
-let shapeColor = "blue";
+//#let shapeColor = "blue";
 
 
 function setup() {
