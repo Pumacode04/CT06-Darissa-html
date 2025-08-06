@@ -8,8 +8,8 @@ function setup() {
 }
 
 function draw() {
-    noStroke();
-    rectSize(300, 200, rectSize, rectSize)
+//#    noStroke();
+    rectSize(300, 200, rectSize, rectSize);
 }
 
 function mousePressed() {
@@ -24,9 +24,9 @@ function mouseDragged() {
 }
 
 function keyPressed() {
-    rectSize = 100
+    rectSize = 100;
 }
 
 function keyReleased() {
-    rectSize = 50
+    rectSize = 50;
 }
