@@ -25,7 +25,7 @@ function mouseDragged() {
 }
 
 function keyPressed() {
-    rect = 100;
+    rectSize = 100;
 }
 
 function keyReleased() {
