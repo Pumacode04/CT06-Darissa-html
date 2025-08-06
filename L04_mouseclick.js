@@ -39,3 +39,5 @@ function mouseMoved() {
 //#    fill(shapeColor);
 //#    ellipse(mouseX, mouseY, 10, 10);
 }
+
+function mouseDragged() {}
