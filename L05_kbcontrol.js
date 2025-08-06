@@ -5,5 +5,5 @@ function setup() {
 }
 
 function draw() {
-    print("WHY")
+    print("WHY!?")
 }
