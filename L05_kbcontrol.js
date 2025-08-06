@@ -11,7 +11,7 @@ function draw() {
 
 function mousePressed() {
     shapeColor = color( random(255), random(255), random(255));
-    fill(shapeColo)
+    fill(shapeColor)
     size = 5
 }
 
