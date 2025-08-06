@@ -1,6 +1,6 @@
 // write your codes here
 //#let shapeColor = ""
-let size = 5;
+//#let size = 5;
 function setup() {
     createCanvas(600, 400);
     background(200);
@@ -11,7 +11,7 @@ function draw() {
 }
 
 function mousePressed() {
-    shapeColor = color( random(255), random(255), random(255));
+//#    shapeColor = color( random(255), random(255), random(255));
     fill(shapeColor)
     size = 5
 }
