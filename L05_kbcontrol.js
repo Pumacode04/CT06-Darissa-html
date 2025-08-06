@@ -10,7 +10,7 @@ function setup() {
 function draw() {
 //#    noStroke();
     background(200);
-    rectSize(300, 200, rectSize, rectSize);
+    rect(300, 200, rectSize, rectSize);
 }
 
 function mousePressed() {
@@ -25,7 +25,7 @@ function mouseDragged() {
 }
 
 function keyPressed() {
-    rectSize = 100;
+    rect = 100;
 }
 
 function keyReleased() {
