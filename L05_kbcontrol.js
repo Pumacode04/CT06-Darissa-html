@@ -13,7 +13,7 @@ function draw() {
 //!    background(200);
 //!    rect(300, 200, rectSize, rectSize);
     background(200);
-    fill(random)
+    fill(random(255))
     if (key === 'c') {
         circle(100, 100, 200)
     }
