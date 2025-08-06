@@ -15,7 +15,7 @@ function draw() {
     background(200);
     fill(random(255))
     if (key === 'c') {
-        circle(100, 100, 200)
+        circle(100, 100, 100)
     }
     if (key === 's') {
         rect(50, 50, 100, 100)
