@@ -10,6 +10,7 @@ function setup() {
 function draw() {
 //#    noStroke();
     rectSize(300, 200, rectSize, rectSize);
+    background(200);
 }
 
 function mousePressed() {
