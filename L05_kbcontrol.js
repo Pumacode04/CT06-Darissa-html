@@ -1,7 +1,7 @@
 // write your codes here
 //#let shapeColor = ""
 //#let size = 5;
-let rectSize = 50
+//!let rectSize = 50
 function setup() {
     createCanvas(600, 400);
     background(200);
