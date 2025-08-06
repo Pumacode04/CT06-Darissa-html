@@ -14,7 +14,13 @@ function draw() {
 //!    rect(300, 200, rectSize, rectSize);
     background(200);
     if (key === 'c') {
-        circle()
+        circle(100, 100, 200)
+    }
+    if (key === 's') {
+        rect(50, 50, 100, 100)
+    }
+    if (key === 't') {
+        triangle(0, 200, 100, 0, 200, 200)
     }
 }
 
