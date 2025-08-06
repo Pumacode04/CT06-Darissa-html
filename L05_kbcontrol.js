@@ -13,7 +13,7 @@ function draw() {
 //!    background(200);
 //!    rect(300, 200, rectSize, rectSize);
     background(200);
-    
+    if (key === 'c') {}
 }
 
 function mousePressed() {
