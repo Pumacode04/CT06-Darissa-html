@@ -12,7 +12,6 @@ function draw() {
 //#    noStroke();
 //!    background(200);
 //!    rect(300, 200, rectSize, rectSize);
-    
 }
 
 function mousePressed() {
