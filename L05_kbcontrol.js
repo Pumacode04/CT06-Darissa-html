@@ -50,7 +50,9 @@ if (keyIsDown( LEFT_ARROW )) {
 if (keyIsDown( DOWN_ARROW )) {
     ypos = ypos + 1;
 }
-if (keyIsDown( UP_ARROW ))
+if (keyIsDown( UP_ARROW )) {
+    ypos 
+}
 
 }
 
