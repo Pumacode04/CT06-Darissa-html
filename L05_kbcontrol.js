@@ -24,8 +24,8 @@ function draw() {
 //    if (key === 't') {
 //        triangle(0, 200, 100, 0, 200, 200)
 //    }
-//- background(200);
-textSize(48);
+//-background(200);
+//-textSize(48);
 text(key, 250, 70)
 text(keyCode, 250, 140)
 }
