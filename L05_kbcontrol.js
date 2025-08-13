@@ -34,8 +34,8 @@ if (keyCode === 38) {
     circle(100, 100, 100)
 }
 if (keyCode === 40) {
-    fill(255)
-    circle()
+    fill(0)
+    circle(100, 100, 100)
 }
 }
 
