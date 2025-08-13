@@ -29,15 +29,15 @@ function draw() {
 //-textSize(48);
 //-text(key, 250, 70)
 //-text(keyCode, 250, 140)
-background(200);
-if (keyCode === 38) {
-    fill(255, 0, 0);
-    circle(100, 100, 100);
-}
-if (keyCode === 40) {
-    fill(0);
-    circle(100, 100, 100);
-}
+//=background(200);
+//=if (keyCode === 38) {
+//=    fill(255, 0, 0);
+//=    circle(100, 100, 100);
+//=}
+//=if (keyCode === 40) {
+//=    fill(0);
+//=    circle(100, 100, 100);
+//=}
 }
 
 function mousePressed() {
