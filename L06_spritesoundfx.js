@@ -2,7 +2,7 @@
 let soundEffect, bgMusic, staticImage
 
 function preload() {
-    soundEffect = loadSound('')
+    soundEffect = loadSound('assests/pop')
 }
 function setup() {
     createCanvas(600, 400);
