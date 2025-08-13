@@ -3,6 +3,7 @@
 //#let size = 5;
 //!let rectSize = 50;
 let xpos = 0;
+let ypos = 0;
 function setup() {
 //! and #    createCanvas(600, 400);
 //    createCanvas(200, 200);
@@ -40,11 +41,12 @@ function draw() {
 //=    circle(100, 100, 100);
 //=}
 if (keyIsDown( RIGHT_ARROW )) {
-    xpos = xpos + 1
+    xpos = xpos + 1;
 }
 if (keyIsDown( LEFT_ARROW )) {
-    xpos = xpos - 1
+    xpos = xpos - 1;
 }
+
 }
 
 function mousePressed() {
