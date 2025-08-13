@@ -29,7 +29,8 @@ function draw() {
 //-text(key, 250, 70)
 //-text(keyCode, 250, 140)
 if (keyCode === 38) {
-    fill()
+    fill(255, 0, 0)
+    circle
 }
 }
 
