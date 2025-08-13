@@ -43,7 +43,7 @@ if (keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1
 }
 if (keyIsDown( LEFT_ARROW )) {
-    xppos
+    xpos = xpos - 1
 }
 }
 
