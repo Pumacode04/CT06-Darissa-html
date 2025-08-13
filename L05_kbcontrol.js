@@ -4,6 +4,7 @@
 //!let rectSize = 50;
 let xpos = 0;
 let ypos = 0;
+let diameter = 80
 function setup() {
 //! and #    createCanvas(600, 400);
 //    createCanvas(200, 200);
