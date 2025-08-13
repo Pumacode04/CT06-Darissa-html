@@ -39,11 +39,11 @@ function draw() {
 //=    fill(0);
 //=    circle(100, 100, 100);
 //=}
-if (keyIsDown ()) {
+if (keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1
 }
 if (keyIsDown( LEFT_ARROW )) {
-
+    xppos
 }
 }
 
