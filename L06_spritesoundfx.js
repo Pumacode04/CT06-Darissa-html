@@ -1,6 +1,9 @@
 // write your codes here
 let soundEffect, bgMusic, staticImage
 
+function preload() {
+    
+}
 function setup() {
     createCanvas(600, 400);
     background(200);
