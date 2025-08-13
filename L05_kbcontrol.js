@@ -1,8 +1,8 @@
 // write your codes here
 //#let shapeColor = ""
 //#let size = 5;
-//!let rectSize = 50
-let xpos = 0
+//!let rectSize = 50;
+let xpos = 0;
 function setup() {
 //! and #    createCanvas(600, 400);
 //    createCanvas(200, 200);
