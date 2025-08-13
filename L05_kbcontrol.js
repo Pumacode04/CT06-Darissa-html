@@ -25,7 +25,7 @@ function draw() {
 //    }
 background(200);
 textSize(48);
-
+text(keyPressed, 250)
 }
 
 function mousePressed() {
