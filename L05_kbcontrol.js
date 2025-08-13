@@ -5,8 +5,8 @@
 function setup() {
 //! and #    createCanvas(600, 400);
 //    createCanvas(200, 200);
-    createCanvas(600, 400);
-    background(200);
+//-    createCanvas(600, 400);
+//-    background(200);
 }
 
 function draw() {
