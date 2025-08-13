@@ -54,7 +54,7 @@ if (keyIsDown( UP_ARROW )) {
     ypos = ypos - 1;
 }
 fill(255, 0, 0);
-circle(xypos, ypos/2, 80);
+circle(xpos, ypos/2, 80);
 
 }
 
