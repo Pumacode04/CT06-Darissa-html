@@ -4,7 +4,7 @@
 //!let rectSize = 50;
 let xpos = 0;
 let ypos = 0;
-let diameter = 80
+let diameter = 80;
 function setup() {
 //! and #    createCanvas(600, 400);
 //    createCanvas(200, 200);
@@ -57,7 +57,7 @@ if (keyIsDown( UP_ARROW )) {
     ypos = ypos - 1;
 }
 fill(255, 0, 0);
-circle(xpos, ypos, 80);
+circle(xpos, ypos, diameter);
 
 }
 
