@@ -51,8 +51,9 @@ if (keyIsDown( DOWN_ARROW )) {
     ypos = ypos + 1;
 }
 if (keyIsDown( UP_ARROW )) {
-    ypos 
+    ypos = ypos - 1;
 }
+
 
 }
 
