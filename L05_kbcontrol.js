@@ -39,7 +39,9 @@ function draw() {
 //=    fill(0);
 //=    circle(100, 100, 100);
 //=}
-
+if (keyIsDown) {
+    
+}
 }
 
 function mousePressed() {
