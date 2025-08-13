@@ -24,6 +24,7 @@ function draw() {
 //        triangle(0, 200, 100, 0, 200, 200)
 //    }
 background(200);
+textSize(48);
 
 }
 
