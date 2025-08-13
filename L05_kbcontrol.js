@@ -28,7 +28,9 @@ function draw() {
 //-textSize(48);
 //-text(key, 250, 70)
 //-text(keyCode, 250, 140)
-if (keyCode === 38)
+if (keyCode === 38) {
+    fill()
+}
 }
 
 function mousePressed() {
