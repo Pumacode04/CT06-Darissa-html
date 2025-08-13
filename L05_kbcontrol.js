@@ -31,7 +31,10 @@ function draw() {
 //-text(keyCode, 250, 140)
 if (keyCode === 38) {
     fill(255, 0, 0)
-    circle()
+    circle(100, 100, 100)
+}
+if (keyCode === 40) {
+    
 }
 }
 
