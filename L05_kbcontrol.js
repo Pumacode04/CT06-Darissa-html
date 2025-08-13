@@ -53,7 +53,7 @@ if (keyIsDown( DOWN_ARROW )) {
 if (keyIsDown( UP_ARROW )) {
     ypos = ypos - 1;
 }
-fill 
+fill(255)
 
 }
 
