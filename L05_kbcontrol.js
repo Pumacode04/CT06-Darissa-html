@@ -2,6 +2,7 @@
 //#let shapeColor = ""
 //#let size = 5;
 //!let rectSize = 50
+
 function setup() {
 //! and #    createCanvas(600, 400);
 //    createCanvas(200, 200);
@@ -38,6 +39,7 @@ function draw() {
 //=    fill(0);
 //=    circle(100, 100, 100);
 //=}
+
 }
 
 function mousePressed() {
