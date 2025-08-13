@@ -40,7 +40,7 @@ function draw() {
 //=    fill(0);
 //=    circle(100, 100, 100);
 //=}
-background(200)
+background(200);
 if (keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1;
 }
