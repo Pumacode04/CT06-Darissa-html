@@ -40,6 +40,9 @@ function draw() {
 //=    circle(100, 100, 100);
 //=}
 if (keyIsDown) {
+    xpos = xpos + 1
+}
+if (keyIsDown( LEFT_ARROW )) {
     
 }
 }
