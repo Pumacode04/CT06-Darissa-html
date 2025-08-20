@@ -14,19 +14,19 @@ function setup() {
 }
 
 function draw() {
-background(200)
-noFill();
-rect(50, 50, 300, 300);
-fill(110, 0, 210);
-rect(xpos, ypos, 50, 50);
-if(keyIsDown( RIGHT_ARROW )) {
-    xpos = xpos + 1;
-}
-if (keyIsDown( LEFT_ARROW )) {
-    xpos = xpos - 1;
-}
-if (keyIsDown( DOWN_ARROW )) {
-    ypos = ypos + 1;
+//background(200)
+//noFill();
+//rect(50, 50, 300, 300);
+//fill(110, 0, 210);
+//rect(xpos, ypos, 50, 50);
+//f(keyIsDown( RIGHT_ARROW )) {
+//    xpos = xpos + 1;
+//
+//if (keyIsDown( LEFT_ARROW )) {
+//    xpos = xpos - 1;
+//}
+//if (keyIsDown( DOWN_ARROW )) {
+//    ypos = ypos + 1;
 }
 if (keyIsDown( UP_ARROW )) {
     ypos = ypos - 1;
