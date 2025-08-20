@@ -13,5 +13,5 @@ function setup() {
 }
 
 function draw() {
-rect()
+rect(50, 50, 300, 300)
 }
