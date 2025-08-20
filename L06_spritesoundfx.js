@@ -3,7 +3,6 @@ let soundEffect, bgMusic, staticImage;
 let xpos = 200;
 let ypos = 265;
 
-bgMusic.loop();
 function preload() {
     soundEffect = loadSound('assets/pop.mp3')
     bgMusic = loadSound('assets/bossaNova.mp3')
@@ -13,6 +12,7 @@ function preload() {
 function setup() {
     createCanvas(400, 400);
     background("skyblue");
+    bg
 }
 
 function draw() {
