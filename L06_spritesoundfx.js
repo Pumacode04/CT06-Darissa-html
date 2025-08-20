@@ -12,12 +12,21 @@ function setup() {
     background(200);
 }
 let xpos = 0
+let ypos = 0
 function draw() {
 noFill();
 rect(50, 50, 300, 300);
 rect(xpos)
 if(keyIsDown( RIGHT_ARROW )) {
-    xpos = xpos + 1
+    xpos = xpos + 1;
 }
-
+if (keyIsDown( LEFT_ARROW )) {
+    xpos = xpos - 1;
+}
+if (keyIsDown( DOWN_ARROW )) {
+    ypos = ypos + 1;
+}
+if (keyIsDown( UP_ARROW )) {
+    ypos = ypos - 1;
+}
 }
