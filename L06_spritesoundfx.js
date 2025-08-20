@@ -13,7 +13,8 @@ function setup() {
 }
 
 function draw() {
-noFill
+noFill();
 rect(50, 50, 300, 300);
+
 
 }
