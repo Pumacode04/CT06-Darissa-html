@@ -1,5 +1,5 @@
 // write your codes here
-let soundEffect, bgMusic, staticImage
+let soundEffect, bgMusic, staticImage;
 let xpos = 0;
 let ypos = 0;
 function preload() {
