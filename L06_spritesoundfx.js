@@ -16,7 +16,7 @@ let ypos = 0
 function draw() {
 noFill();
 rect(50, 50, 300, 300);
-rect(xpos)
+rect(xpos, ypos, 50, 50);
 if(keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1;
 }
