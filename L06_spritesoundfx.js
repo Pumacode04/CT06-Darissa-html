@@ -3,10 +3,10 @@ let soundEffect, bgMusic, staticImage
 let xpos = 0;
 let ypos = 0;
 function preload() {
-    soundEffect = loadSound('assests/pop.mp3')
-    bgMusic = loadSound('assests/bossaNova.mp3')
+    soundEffect = loadSound('assets/pop.mp3')
+    bgMusic = loadSound('assets/bossaNova.mp3')
 
-    staticImage = loadImage('assests/pico-a.png')
+    staticImage = loadImage('assets/pico-a.png')
 }
 function setup() {
     createCanvas(400, 400);
