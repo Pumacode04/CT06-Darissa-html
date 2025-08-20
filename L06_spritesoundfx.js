@@ -19,9 +19,10 @@ image(staticImage, xpos, ypos, 110, 133);
 if(keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1;
 }
-if (keyIsDown( LEFT_ARROW )) {
+else if (keyIsDown( LEFT_ARROW )) {
     xpos = xpos - 1;
 }
+else if (keyIsDown ())
 xpos = constrain(xpos, 0, 290, 110)
 //background(200)
 //noFill();
