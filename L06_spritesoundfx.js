@@ -1,6 +1,7 @@
 // write your codes here
 let soundEffect, bgMusic, staticImage
-
+let xpos = 0;
+let ypos = 0;
 function preload() {
     soundEffect = loadSound('assests/pop.mp3')
     bgMusic = loadSound('assests/bossaNova.mp3')
@@ -11,8 +12,7 @@ function setup() {
     createCanvas(400, 400);
     background(200);
 }
-let xpos = 0;
-let ypos = 0;
+
 function draw() {
 noFill();
 rect(50, 50, 300, 300);
