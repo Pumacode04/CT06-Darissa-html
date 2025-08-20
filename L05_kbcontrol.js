@@ -41,7 +41,7 @@ function draw() {
 //=    fill(0);
 //=    circle(100, 100, 100);
 //=}
-xpos = constrain(xpos, diameter/2, width - diameter/2);
+//8xpos = constrain(xpos, diameter/2, width - diameter/2);
 ypos = constrain(ypos, diameter/2, height - diameter/2);
 background(200);
 if (keyIsDown( RIGHT_ARROW )) {
