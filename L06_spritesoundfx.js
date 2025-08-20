@@ -22,6 +22,7 @@ if(keyIsDown( RIGHT_ARROW )) {
 if (keyIsDown( LEFT_ARROW )) {
     xpos = xpos - 1;
 }
+
 //background(200)
 //noFill();
 //rect(50, 50, 300, 300);
