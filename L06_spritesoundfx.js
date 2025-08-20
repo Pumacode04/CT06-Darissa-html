@@ -31,5 +31,5 @@ if (keyIsDown( UP_ARROW )) {
     ypos = ypos - 1;
 }
 xpos = constrain(xpos,);
-ypos = constrain(ypos, diameter/2, height - diameter/2);
+ypos = constrain(ypos, );
 }
