@@ -15,7 +15,7 @@ function setup() {
 
 function draw() {
 background("skyblue");
-image(staticImage, xpos, ypos);
+image(staticImage, xpos, ypos, 110, 133);
 //background(200)
 //noFill();
 //rect(50, 50, 300, 300);
