@@ -44,15 +44,15 @@ function draw() {
 //8xpos = constrain(xpos, diameter/2, width - diameter/2);
 //8ypos = constrain(ypos, diameter/2, height - diameter/2);
 //8background(200);
-if (keyIsDown( RIGHT_ARROW )) {
-    xpos = xpos + 1;
-}
-if (keyIsDown( LEFT_ARROW )) {
-    xpos = xpos - 1;
-}
-if (keyIsDown( DOWN_ARROW )) {
-    ypos = ypos + 1;
-}
+//8if (keyIsDown( RIGHT_ARROW )) {
+//8    xpos = xpos + 1;
+//8}
+//8if (keyIsDown( LEFT_ARROW )) {
+//8    xpos = xpos - 1;
+//8}
+//8if (keyIsDown( DOWN_ARROW )) {
+//8    ypos = ypos + 1;
+//8}
 if (keyIsDown( UP_ARROW )) {
     ypos = ypos - 1;
 }
