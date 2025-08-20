@@ -8,7 +8,7 @@ function preload() {
     staticImage = loadImage('assests/pico-a.png')
 }
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(400, 400);
     background(200);
 }
 
