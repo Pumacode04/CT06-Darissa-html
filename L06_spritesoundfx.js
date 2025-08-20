@@ -31,7 +31,7 @@ ypos = constrain(ypos, 30, 340)
 //rect(xpos, ypos, 50, 50);
 //if(keyIsDown( RIGHT_ARROW )) {
 //    xpos = xpos + 1;
-//
+//}
 //if (keyIsDown( LEFT_ARROW )) {
 //    xpos = xpos - 1;
 //}
