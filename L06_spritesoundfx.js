@@ -16,13 +16,12 @@ function setup() {
 function draw() {
 background("skyblue");
 image(staticImage, xpos, ypos, 110, 133);
-x
 //background(200)
 //noFill();
 //rect(50, 50, 300, 300);
 //fill(110, 0, 210);
 //rect(xpos, ypos, 50, 50);
-//f(keyIsDown( RIGHT_ARROW )) {
+//if(keyIsDown( RIGHT_ARROW )) {
 //    xpos = xpos + 1;
 //
 //if (keyIsDown( LEFT_ARROW )) {
