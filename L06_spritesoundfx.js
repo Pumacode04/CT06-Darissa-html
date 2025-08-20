@@ -11,7 +11,7 @@ function setup() {
     createCanvas(400, 400);
     background(200);
 }
-
+let xpos = 0
 function draw() {
 noFill();
 rect(50, 50, 300, 300);
