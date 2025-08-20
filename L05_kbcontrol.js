@@ -53,11 +53,11 @@ function draw() {
 //8if (keyIsDown( DOWN_ARROW )) {
 //8    ypos = ypos + 1;
 //8}
-if (keyIsDown( UP_ARROW )) {
-    ypos = ypos - 1;
-}
-fill(255, 0, 0);
-circle(xpos, ypos, diameter);
+//8if (keyIsDown( UP_ARROW )) {
+//8    ypos = ypos - 1;
+//8}
+//8fill(255, 0, 0);
+//8circle(xpos, ypos, diameter);
 
 }
 
