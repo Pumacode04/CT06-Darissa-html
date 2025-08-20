@@ -15,8 +15,9 @@ function setup() {
 function draw() {
 noFill();
 rect(50, 50, 300, 300);
+rect
 if(keyIsDown( RIGHT_ARROW )) {
-    
+    xpos = xpos + 1
 }
 
 }
