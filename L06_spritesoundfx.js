@@ -23,7 +23,6 @@ if (keyIsDown( LEFT_ARROW )) {
     xpos = xpos - 1;
 }
 xpos = constrain(xpos, 0, 400, 110)
-ypos = constrain(ypos, 30, 340)
 //background(200)
 //noFill();
 //rect(50, 50, 300, 300);
