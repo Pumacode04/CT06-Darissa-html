@@ -15,6 +15,8 @@ function setup() {
 function draw() {
 noFill();
 rect(50, 50, 300, 300);
-
+if(keyIsDown( RIGHT_ARROW )) {
+    
+}
 
 }
