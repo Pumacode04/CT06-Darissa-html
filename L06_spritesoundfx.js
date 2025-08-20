@@ -27,10 +27,10 @@ function draw() {
 //}
 //if (keyIsDown( DOWN_ARROW )) {
 //    ypos = ypos + 1;
-}
-if (keyIsDown( UP_ARROW )) {
-    ypos = ypos - 1;
-}
-xpos = constrain(xpos, 50, 300);
-ypos = constrain(ypos, 50, 300);
+//}
+//if (keyIsDown( UP_ARROW )) {
+//    ypos = ypos - 1;
+//}
+//xpos = constrain(xpos, 50, 300);
+//ypos = constrain(ypos, 50, 300);
 }
