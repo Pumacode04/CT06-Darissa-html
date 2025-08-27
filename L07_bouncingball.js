@@ -5,6 +5,7 @@ function setup() {
 }
 
 function draw() {
+fill(0)
 stroke(255, 0, 0);
 strokeWeight(10);
 circle(150, height/2, 75);
