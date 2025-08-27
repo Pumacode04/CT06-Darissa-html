@@ -23,7 +23,7 @@ background("skyblue");
 image(staticImage, xpos, ypos, 110, 133);
 image(secondguy, sgx, sgy, 96, 127);
 if(keyIsDown(65)) {
-    
+    gsy = gsy +
 }
 if(keyIsDown(68)) {
     gsx = gsx + 1
