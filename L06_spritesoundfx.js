@@ -20,7 +20,9 @@ function draw() {
 background("skyblue");
 image(staticImage, xpos, ypos, 110, 133);
 image(secondguy, 100, 100, 96, 127);
-if(keyIsDown)
+if(keyIsDown(65)) {
+    
+}
 if(keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1;
 }
