@@ -4,11 +4,11 @@ let xpos = 200;
 let ypos = 265;
 
 function preload() {
-    soundEffect = loadSound('assets/pop.mp3')
-    bgMusic = loadSound('assets/bossaNova.mp3')
+    soundEffect = loadSound('assets/pop.mp3');
+    bgMusic = loadSound('assets/bossaNova.mp3');
 
-    staticImage = loadImage('assets/pico-a.png')
-    secondguy = loadImage('assets/cute.Penguin.svg')
+    staticImage = loadImage('assets/pico-a.png');
+    secondguy = loadImage('assets/cute.Penguin.svg');
 }
 function setup() {
     createCanvas(400, 400);
