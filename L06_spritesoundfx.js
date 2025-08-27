@@ -25,7 +25,9 @@ image(secondguy, sgx, sgy, 96, 127);
 if(keyIsDown(65)) {
 
 }
-if(keyIsDown(68))
+if(keyIsDown(68)) {
+    
+}
 if(keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1;
 }
