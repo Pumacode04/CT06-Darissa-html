@@ -10,5 +10,5 @@ stroke(255, 0, 0);
 strokeWeight(10);
 circle(150, height/2, 75);
 triangle(250, 250, 300, 175, 350, 250);
-rect(400, height/2, 50, 50);
+rect(400, height/2, 100, 100);
 }
