@@ -8,7 +8,7 @@ function draw() {
 fill(0)
 stroke(255, 0, 0);
 strokeWeight(10);
-circle(150, 210, 75);
+circle(150, 210, 100);
 triangle(250, 250, 300, 175, 350, 250);
 rect(400, 175, 75, 75);
 }
