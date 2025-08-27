@@ -19,7 +19,7 @@ function setup() {
 function draw() {
 background("skyblue");
 image(staticImage, xpos, ypos, 110, 133);
-image(staticImage, 100, ypos, 96, 127);
+image(secondguy, 100, ypos, 96, 127);
 if(keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1;
 }
