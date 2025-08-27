@@ -2,6 +2,7 @@
 let soundEffect, bgMusic, staticImage;
 let xpos = 200;
 let ypos = 265;
+let sg
 
 function preload() {
     soundEffect = loadSound('assets/pop.mp3');
@@ -21,7 +22,7 @@ background("skyblue");
 image(staticImage, xpos, ypos, 110, 133);
 image(secondguy, 100, 100, 96, 127);
 if(keyIsDown(65)) {
-    
+
 }
 if(keyIsDown( RIGHT_ARROW )) {
     xpos = xpos + 1;
