@@ -8,7 +8,7 @@ function preload() {
     bgMusic = loadSound('assets/bossaNova.mp3')
 
     staticImage = loadImage('assets/pico-a.png')
-    secondguy = loadImage('assets/pe')
+    secondguy = loadImage('assets/cute.Penguin.svg')
 }
 function setup() {
     createCanvas(400, 400);
