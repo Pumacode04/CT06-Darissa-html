@@ -40,6 +40,7 @@ function setup() {
 //}
 // task 1
 function draw() {
+    
     noStroke();
     circle(xpos, ypos, ball);
 }
