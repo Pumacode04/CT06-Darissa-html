@@ -24,18 +24,18 @@ function setup() {
     //1 if ( xpos > width - ball / 2 ) {
     //1     xpos = width - ball /2;
     //1 }
-    // if ( keyIsDown(UP_ARROW)){
-    //     ypos = ypos - 5;
-    // }
-    // if ( ypos < ball ) {
-    //     ypos = ball;
-    // }
-    // if ( keyIsDown(DOWN_ARROW)){
-    //     ypos = ypos + 5;
-    // }
-    // if ( ypos > height - ball / 2 ) {
-    //     ypos = height - ball / 2;
-    // }
+    //1 if ( keyIsDown(UP_ARROW)){
+    //1     ypos = ypos - 5;
+    //1 }
+    //1 if ( ypos < ball ) {
+    //1     ypos = ball;
+    //1 }
+    //1 if ( keyIsDown(DOWN_ARROW)){
+    //1     ypos = ypos + 5;
+    //1 }
+    //1 if ( ypos > height - ball / 2 ) {
+    //1     ypos = height - ball / 2;
+    //1 }
 
 //1}
 // task 1
