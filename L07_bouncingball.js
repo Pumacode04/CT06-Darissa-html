@@ -22,7 +22,7 @@ function draw() {
         xpos = width - 25;
     }
     if ( keyIsDown(UP_ARROW)){
-
+        ypos = ypos - 25;
     }
 
 }
