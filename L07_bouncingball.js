@@ -1,6 +1,7 @@
 // write your codes here
 let xpos = 300;
 let ypos = 200;
+let ball
 
 function setup() {
     createCanvas(600, 400);
