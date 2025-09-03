@@ -3,7 +3,7 @@ let xpos = 300;
 let ypos = 200;
 let size = 50;
 let speedX = 2;
-let speed
+let speedY = 2;
 
 function setup() {
     createCanvas(600, 400);
