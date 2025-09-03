@@ -25,10 +25,13 @@ function draw() {
         ypos = ypos - 5;
     }
     if ( ypos < 25 ) {
-        
+        ypos = 25;
     }
     if ( keyIsDown(DOWN_ARROW)){
         ypos = ypos + 5
+    }
+    if ( ypos > height - 25 ) {
+        y
     }
 
 }
