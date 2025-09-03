@@ -4,7 +4,7 @@ let ypos = 200;
 let size = 50;
 let speedX = 2;
 let speedY = 2;
-let random = random(0, 255)
+let random = random(0, 255);
 
 function setup() {
     createCanvas(600, 400);
@@ -57,6 +57,7 @@ function draw() {
     }
         if( ypos > height - size/2) {
         speedY = speedY * -1; // change direction
+        
     }
     if( ypos < 0 + size/2){
         speedY = speedY * -1; // change direction
