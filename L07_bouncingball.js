@@ -15,15 +15,15 @@ function setup() {
     //1 if ( keyIsDown(LEFT_ARROW) ) {
     //1     xpos = xpos - 5;
     //1 }
-    // if ( xpos < ball / 2 ) {
-    //     xpos = ball / 2;
-    // }
-    // if ( keyIsDown(RIGHT_ARROW) ) {
-    //     xpos = xpos + 5;
-    // }
-    // if ( xpos > width - ball / 2 ) {
-    //     xpos = width - ball /2;
-    // }
+    //1 if ( xpos < ball / 2 ) {
+    //1     xpos = ball / 2;
+    //1 }
+    //1 if ( keyIsDown(RIGHT_ARROW) ) {
+    //1     xpos = xpos + 5;
+    //1 }
+    //1 if ( xpos > width - ball / 2 ) {
+    //1     xpos = width - ball /2;
+    //1 }
     // if ( keyIsDown(UP_ARROW)){
     //     ypos = ypos - 5;
     // }
