@@ -1,5 +1,6 @@
 // write your codes here
-let xpos = 200;
+let xpos = 300;
+let ypos = 200;
 
 function setup() {
     createCanvas(600, 400);
@@ -21,7 +22,7 @@ function draw() {
         xpos = width - 25;
     }
     if ( keyIsDown(UP_ARROW)){
-        
+
     }
 
 }
