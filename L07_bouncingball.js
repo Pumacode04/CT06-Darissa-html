@@ -43,6 +43,5 @@ function draw() {
     background("darkred")
     noStroke();
     circle(xpos, ypos, ball);
-
-    
+    xpos = xpos +
 }
