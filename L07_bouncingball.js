@@ -10,7 +10,7 @@ function setup() {
     background(220);
 }
 
-function draw() {
+//function draw() {
     // circle(xpos, ypos, ball); 
     // if ( keyIsDown(LEFT_ARROW) ) {
     //     xpos = xpos - 5;
@@ -37,4 +37,4 @@ function draw() {
     //     ypos = height - ball / 2;
     // }
 
-}
+//}
