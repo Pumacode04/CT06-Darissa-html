@@ -74,6 +74,6 @@ function draw() {
     if ( keyIsDown(UP_ARROW) ) {
          speedY = speedY + 1;
     }
-//    speedX = constrain(speedX, -10, 10);
-//    speedY = constrain(speedY, -10, 10);
+    speedX = constrain(speedX, -10, 10);
+    speedY = constrain(speedY, -10, 10);
 }
