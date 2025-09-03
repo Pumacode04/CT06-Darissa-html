@@ -52,7 +52,7 @@ function draw() {
     if( xpos < 0 + size/2){
         speedX = speedX * -1; // change direction
     }
-        if( xpos > width - size/2) {
+        if( ypos > height - size/2) {
         speedY = speedY * -1; // change direction
     }
     if( xpos < 0 + size/2){
