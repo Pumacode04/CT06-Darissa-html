@@ -8,4 +8,7 @@ function setup() {
 
 function draw() {
     circle(xpos, height/2, 50); 
+    if ( keyIsDown(LEFT_ARROW) ) {
+        
+    }
 }
