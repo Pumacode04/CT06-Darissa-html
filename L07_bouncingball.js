@@ -18,6 +18,6 @@ function draw() {
         xpos = xpos + 5;
     }
     if ( xpos > 600 - 25 ) {
-        
+        xpos = 600 - 25;
     }
 }
