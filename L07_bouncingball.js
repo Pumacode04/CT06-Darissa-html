@@ -43,7 +43,7 @@ function setup() {
 function draw() {
     background("darkred")
     noStroke();
-    fill("gold");
+//    fill("gold");
     circle(xpos, ypos, size);
     xpos = xpos + speedX;
     ypos = ypos + speedY;
