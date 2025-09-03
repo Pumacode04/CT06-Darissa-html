@@ -20,6 +20,8 @@ function draw() {
     if ( xpos > width - 25 ) {
         xpos = width - 25;
     }
-    
+    if ( keyIsDown(UP_ARROW)){
+        
+    }
 
 }
