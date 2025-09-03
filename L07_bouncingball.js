@@ -42,7 +42,7 @@ function setup() {
 function draw() {
     background("darkred")
     noStroke();
-    fill(7);
+    fill(0);
     circle(xpos, ypos, size);
     xpos = xpos + speedX;
     ypos = ypos + speedY;
