@@ -7,5 +7,5 @@ function setup() {
 }
 
 function draw() {
-    circle(xpos) 
+    circle(xpos, height/2, 50); 
 }
