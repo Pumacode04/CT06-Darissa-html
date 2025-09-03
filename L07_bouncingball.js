@@ -7,7 +7,7 @@ let speedY = 2;
 
 function setup() {
     createCanvas(600, 400);
-    background(220);
+    background("blood");
 }
 
 //function draw() {
