@@ -46,4 +46,7 @@ function draw() {
     circle(xpos, ypos, size);
     xpos = xpos + speedX;
     ypos = ypos + speedY;
+    if( xpos > width) {
+        
+    }
 }
