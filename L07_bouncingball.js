@@ -11,30 +11,30 @@ function setup() {
 }
 
 function draw() {
-    circle(xpos, ypos, ball); 
-    if ( keyIsDown(LEFT_ARROW) ) {
-        xpos = xpos - 5;
-    }
-    if ( xpos < ball / 2 ) {
-        xpos = ball / 2;
-    }
-    if ( keyIsDown(RIGHT_ARROW) ) {
-        xpos = xpos + 5;
-    }
-    if ( xpos > width - ball / 2 ) {
-        xpos = width - ball /2;
-    }
-    if ( keyIsDown(UP_ARROW)){
-        ypos = ypos - 5;
-    }
-    if ( ypos < ball ) {
-        ypos = ball;
-    }
-    if ( keyIsDown(DOWN_ARROW)){
-        ypos = ypos + 5;
-    }
-    if ( ypos > height - ball / 2 ) {
-        ypos = height - ball / 2;
-    }
+    // circle(xpos, ypos, ball); 
+    // if ( keyIsDown(LEFT_ARROW) ) {
+    //     xpos = xpos - 5;
+    // }
+    // if ( xpos < ball / 2 ) {
+    //     xpos = ball / 2;
+    // }
+    // if ( keyIsDown(RIGHT_ARROW) ) {
+    //     xpos = xpos + 5;
+    // }
+    // if ( xpos > width - ball / 2 ) {
+    //     xpos = width - ball /2;
+    // }
+    // if ( keyIsDown(UP_ARROW)){
+    //     ypos = ypos - 5;
+    // }
+    // if ( ypos < ball ) {
+    //     ypos = ball;
+    // }
+    // if ( keyIsDown(DOWN_ARROW)){
+    //     ypos = ypos + 5;
+    // }
+    // if ( ypos > height - ball / 2 ) {
+    //     ypos = height - ball / 2;
+    // }
 
 }
