@@ -63,7 +63,7 @@ function draw() {
         fill( random, 0, random(0,255));
     }
     if ( keyIsDown(LEFT_ARROW) ) {
-         speedX = speedX + 1;
+         speedX = speedX - 1;
     }
     if ( keyIsDown(RIGHT_ARROW) ) {
          speedX = speedX + 1;
