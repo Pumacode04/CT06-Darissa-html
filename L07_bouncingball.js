@@ -37,7 +37,7 @@ function setup() {
     //     ypos = height - ball / 2;
     // }
 
-//}
+//1}
 // task 1
 function draw() {
     background("darkred")
