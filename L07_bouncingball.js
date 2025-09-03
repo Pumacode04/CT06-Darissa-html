@@ -1,7 +1,8 @@
 // write your codes here
 let xpos = 300;
 let ypos = 200;
-let ball
+let size = 50;
+let 
 
 function setup() {
     createCanvas(600, 400);
@@ -9,30 +10,30 @@ function setup() {
 }
 
 function draw() {
-    circle(xpos, ypos, 50); 
+    circle(xpos, ypos, ball); 
     if ( keyIsDown(LEFT_ARROW) ) {
         xpos = xpos - 5;
     }
-    if ( xpos < 25 ) {
-        xpos = 25;
+    if ( xpos < ball / 2 ) {
+        xpos = ball / 2;
     }
     if ( keyIsDown(RIGHT_ARROW) ) {
         xpos = xpos + 5;
     }
-    if ( xpos > width - 25 ) {
-        xpos = width - 25;
+    if ( xpos > width - ball / 2 ) {
+        xpos = width - ball /2;
     }
     if ( keyIsDown(UP_ARROW)){
         ypos = ypos - 5;
     }
-    if ( ypos < 25 ) {
-        ypos = 25;
+    if ( ypos < ball ) {
+        ypos = ball;
     }
     if ( keyIsDown(DOWN_ARROW)){
         ypos = ypos + 5;
     }
-    if ( ypos > height - 25 ) {
-        ypos = height - 25;
+    if ( ypos > height - ball / 2 ) {
+        ypos = height - ball / 2;
     }
 
 }
