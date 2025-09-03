@@ -44,5 +44,5 @@ function draw() {
     noStroke();
     circle(xpos, ypos, ball);
     xpos = xpos + speedX;
-    ypos = ypos + speed
+    ypos = ypos + speedY;
 }
