@@ -43,7 +43,7 @@ function draw() {
     background("darkred")
     noStroke();
     fill(255);
-    circle(xpos, ypos, ball);
+    circle(xpos, ypos, size);
     xpos = xpos + speedX;
     ypos = ypos + speedY;
 }
