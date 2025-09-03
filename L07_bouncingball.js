@@ -25,7 +25,7 @@ function draw() {
         ypos = ypos - 25;
     }
     if ( keyIsDown(DOWN_ARROW)){
-        
+        ypos = ypos + 5
     }
 
 }
