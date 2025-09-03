@@ -9,9 +9,9 @@ function setup() {
 function draw() {
     circle(xpos, height/2, 50); 
     if ( keyIsDown(LEFT_ARROW) ) {
-
+        xpos
     }
     if ( keyIsDown(RIGHT_ARROW) ) {
-        
+
     }
 }
