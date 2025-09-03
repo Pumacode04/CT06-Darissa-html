@@ -47,6 +47,6 @@ function draw() {
     xpos = xpos + speedX;
     ypos = ypos + speedY;
     if( xpos > width) {
-        speedX = speed
+        speedX = speedX * -1;
     }
 }
