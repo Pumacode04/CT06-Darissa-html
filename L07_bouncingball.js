@@ -62,4 +62,7 @@ function draw() {
         speedY = speedY * -1; // change direction
         fill( random, 0, random(0,255));
     }
+    if ( keyIsDown(LEFT_ARROW) ) {
+         xpos = xpos - 5;
+    }
 }
