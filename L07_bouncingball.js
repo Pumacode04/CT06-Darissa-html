@@ -31,7 +31,7 @@ function draw() {
         ypos = ypos + 5
     }
     if ( ypos > height - 25 ) {
-        y
+        ypos = height - 25;
     }
 
 }
