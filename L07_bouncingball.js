@@ -10,11 +10,11 @@ function setup() {
     background("darkred");
 }
 
-//function draw() {
-    // circle(xpos, ypos, ball); 
-    // if ( keyIsDown(LEFT_ARROW) ) {
-    //     xpos = xpos - 5;
-    // }
+//1function draw() {
+    //1 circle(xpos, ypos, ball); 
+    //1 if ( keyIsDown(LEFT_ARROW) ) {
+    //1     xpos = xpos - 5;
+    //1 }
     // if ( xpos < ball / 2 ) {
     //     xpos = ball / 2;
     // }
