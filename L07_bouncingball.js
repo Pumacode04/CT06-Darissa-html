@@ -69,9 +69,9 @@ function draw() {
          speedX = speedX + 5;
     }
     if ( keyIsDown(DOWN_ARROW) ) {
-         speedY = speed + 5;
+         speedY = speedY + 5;
     }
     if ( keyIsDown(RIGHT_ARROW) ) {
-         speedX = speedX + 5;
+         speedY = speedY + 5;
     }
 }
