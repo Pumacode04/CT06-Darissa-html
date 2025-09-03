@@ -52,7 +52,7 @@ function draw() {
     }
     if( xpos < 0 + size/2){
         speedX = speedX * -1; // change direction
-        fill(random, 0, random);
+        fill( random(0,255), 0, random(0,255));
     }
         if( ypos > height - size/2) {
         speedY = speedY * -1; // change direction
