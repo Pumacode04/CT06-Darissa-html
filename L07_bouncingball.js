@@ -38,3 +38,7 @@ function setup() {
     // }
 
 //}
+// task 1
+function draw() {
+    circle(xpos, ypos, ball);
+}
