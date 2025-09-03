@@ -11,7 +11,9 @@ function draw() {
     if ( keyIsDown(LEFT_ARROW) ) {
         xpos = xpos - 5
     }
-    if ( xpos < 25)
+    if ( xpos < 25 ) {
+        
+    }
     if ( keyIsDown(RIGHT_ARROW) ) {
 
     }
