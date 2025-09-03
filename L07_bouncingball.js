@@ -4,6 +4,7 @@ let ypos = 200;
 let size = 50;
 let speedX = 2;
 let speedY = 2;
+let
 
 function setup() {
     createCanvas(600, 400);
