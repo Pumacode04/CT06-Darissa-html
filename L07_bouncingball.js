@@ -41,7 +41,7 @@ function setup() {
 //1}
 // task 1
 function draw() {
-    background("darkred")
+//    background("darkred")
     noStroke();
 //    fill("gold");
     circle(xpos, ypos, size);
@@ -61,6 +61,6 @@ function draw() {
     }
     if( ypos < 0 + size/2){
         speedY = speedY * -1; // change direction
-        fill()
+        fill(random, 0, random);
     }
 }
