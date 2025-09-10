@@ -7,4 +7,16 @@ function setup() {
     background(200);
 }
 
-z
+// forever block
+function draw() {
+    background(220);
+    noStroke();
+    rect( xpos, ypos, 50, 50 );
+
+    xpos = xpos + velocityX;
+
+    if ( xpos < 0 || xpos > width-50 ) {
+        fill( random(255), random(255), random(255) );
+        velocityX = speed * -1;
+    }
+}
