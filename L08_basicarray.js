@@ -1,8 +1,8 @@
 // write your codes here
-let xpos = 300;
-let ypos = 350;
+let xpos = 200;
+let ypos = 250;
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(400, 400);
     background(200);
 }
 
@@ -10,7 +10,7 @@ function draw() {
 noStroke();
 fill( random(255), random(255), random(255));
 rect(xpos, ypos, 50);
-
+if ( xpos )
 xpos = xpos + 1
 
 }
