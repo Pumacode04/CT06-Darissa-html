@@ -11,6 +11,7 @@ function setup() {
     text("My name is", 50, 50);
     text("I am", 50, 100);
     text("My favourite activity is", 50, 150);
+    text
 }
 
 function draw() {
