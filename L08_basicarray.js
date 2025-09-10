@@ -21,7 +21,8 @@ function setup() {
 //        console.log( "I like to eat " + favFood + ".");
 //        text( "I like to eat " + favFood[index] + ".", 80, ypos)
 //        ypos = ypos + 50
-        text("My Favourtie foods :");
+        text("My Favourtie foods :", 50, 50);
+        
     }
 }
 
