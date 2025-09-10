@@ -13,6 +13,6 @@ function draw() {
         soundsFX.play();
     }
     else if ( keyIsDown( DOWN_ARROW ) ) {
-        soundsFX.stop
+        soundsFX.stop();
     }
 }
