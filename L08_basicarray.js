@@ -8,11 +8,11 @@ function setup() {
 
     fill("cyan");
     textSize(32);
-    text("p5.js library", 80, 200);
+    text("p5.js library", 100, 200);
 }
 
 function draw() {
-    
+
 }
 
 // function draw() {
