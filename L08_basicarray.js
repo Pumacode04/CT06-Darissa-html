@@ -6,7 +6,7 @@ function setup() {
     createCanvas(400, 400);
     background(0);
 
-    
+    let ypos = 80;
     fill("cyan");
     textSize(20);
     text("My name is", 50, 50);
