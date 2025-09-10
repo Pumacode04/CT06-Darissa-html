@@ -11,6 +11,7 @@ function draw() {
     background(200);
     rect(xpos, ypos, 50, 50);
     if ( xpos > 350) {
+        fill( random(255), random(255), random(255));
        xpos = xpos + 1;
     }
     if (xpos < 0) {
