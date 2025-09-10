@@ -8,6 +8,7 @@ function setup() {
 
 function draw() {
     noStroke();
+    background()
     rect(xpos, ypos, 50);
     if ( xpos > 350) {
        xpos = xpos + 1;
