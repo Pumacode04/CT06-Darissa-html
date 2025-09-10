@@ -13,7 +13,10 @@ function setup() {
     text("My favourite activity is", 50, 150);
     text("Good Luck guessing :)", 50, 200);
 
-    let favFood = ["Ice Cream", "Speghetti", "Chocolate", "Cookies"]
+    let favFood = ["Ice Cream", "Speghetti", "Chocolate", "Cookies"];
+    for ( let index=0; index < favFood.length; index++) {
+        
+    }
 }
 
 function draw() {
