@@ -16,6 +16,7 @@ function setup() {
     let favFood = ["Ice Cream", "Speghetti", "Chocolate", "Cookies"];
     for ( let index=0; index < favFood.length; index++) {
         console.log( favFood.length);
+        console
     }
 }
 
