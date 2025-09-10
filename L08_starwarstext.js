@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-    
+    text("the beginning of the star wars story")
     if (keyIsDown(32) ) {
         soundsFX.play();
     }
