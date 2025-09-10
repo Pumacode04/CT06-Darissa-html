@@ -22,7 +22,7 @@ function setup() {
 //        text( "I like to eat " + favFood[index] + ".", 80, ypos)
 //        ypos = ypos + 50
         text("My Favourtie foods :", 50, 50);
-        text(i + 1)
+        text(i+1)
     }
 }
 
