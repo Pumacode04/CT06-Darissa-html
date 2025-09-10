@@ -14,8 +14,8 @@ function setup() {
     text("Good Luck guessing :)", 50, 200);
 
     let favFood = ["Ice Cream", "Speghetti", "Chocolate", "Cookies"];
+    console.log( favFood.length);
     for ( let index=0; index < favFood.length; index++) {
-        console.log( favFood.length);
         console.log( "I like to eat " + favFood + ".");
     }
 }
