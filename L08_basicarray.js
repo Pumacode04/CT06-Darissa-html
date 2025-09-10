@@ -6,7 +6,7 @@ function setup() {
     createCanvas(400, 400);
     background(0);
 
-    fill("blue")
+    fill("cyan")
     textSize(32);
     text("p5.js library", 80, 200);
 }
