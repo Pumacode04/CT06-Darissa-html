@@ -6,8 +6,9 @@ function setup() {
     createCanvas(400, 400);
     background(200);
 
+    fill
     textSize(32);
-    text("p5")
+    text("p5.js library");
 }
 
 // function draw() {
