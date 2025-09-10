@@ -7,7 +7,7 @@ function setup() {
     background(200);
 
     textSize(32);
-    
+    text("p5")
 }
 
 // function draw() {
