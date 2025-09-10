@@ -19,7 +19,7 @@ function setup() {
     for ( let index=0; index < favFood.length; index++) {
         console.log( "I like to eat " + favFood + ".");
         text( favFoods[index], 80, ypos)
-        ypos = 
+        ypos = ypos + 50
     }
 }
 
