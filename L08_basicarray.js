@@ -1,5 +1,5 @@
 // write your codes here
-let xpos = 200;
+let xpos = 150;
 let ypos = 250;
 function setup() {
     createCanvas(400, 400);
