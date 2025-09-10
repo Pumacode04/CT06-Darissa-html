@@ -10,6 +10,6 @@ function draw() {
 noStroke();
 fill( random(255), random(255), random(255));
 rect(xpos, ypos, 50);
-xpos = xpos + 1
+ypos = ypos + 1
 
 }
