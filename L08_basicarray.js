@@ -23,7 +23,7 @@ function setup() {
 //        ypos = ypos + 50
         text("My Favourtie foods :", 50, 50);
         text(i+1 + ")" + favFood[index], 50, ypos)
-        
+        ypos = ypos + 30
     }
 }
 
