@@ -10,6 +10,7 @@ function setup() {
     createCanvas(600, 400);
     background(0);
     fill("cyan");
+    ypos = height;
 }
 
 function draw() {
