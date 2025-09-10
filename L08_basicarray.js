@@ -8,7 +8,7 @@ function setup() {
 
     fill("cyan");
     textSize(32);
-    text("p5.js library", 50, 50);
+    text("", 50, 50);
 }
 
 function draw() {
