@@ -6,6 +6,7 @@ function setup() {
     createCanvas(400, 400);
     background(0);
 
+    
     fill("cyan");
     textSize(20);
     text("My name is", 50, 50);
@@ -17,7 +18,7 @@ function setup() {
     console.log( favFood.length);
     for ( let index=0; index < favFood.length; index++) {
         console.log( "I like to eat " + favFood + ".");
-        text( favFoods[index], 80, )
+        text( favFoods[index], 80, ypos)
     }
 }
 
