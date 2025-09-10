@@ -6,5 +6,5 @@ function setup() {
 
 function draw() {
 noStroke();
-fill()
+fill( random(255), random(255))
 }
