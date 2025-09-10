@@ -8,7 +8,8 @@ function setup() {
 
     fill("cyan");
     textSize(32);
-    text("", 50, 50);
+    text("My name is", 50, 50);
+    text("")
 }
 
 function draw() {
