@@ -7,12 +7,12 @@ function setup() {
     background(0);
 
     let ypos = 80;
-    fill("cyan");
-    textSize(20);
-    text("My name is", 50, 50);
-    text("I am", 50, 100);
-    text("My favourite activity is", 50, 150);
-    text("Good Luck guessing :)", 50, 200);
+//    fill("cyan");
+//    textSize(20);
+//    text("My name is", 50, 50);
+//    text("I am", 50, 100);
+//    text("My favourite activity is", 50, 150);
+//    text("Good Luck guessing :)", 50, 200);
 
     let favFood = ["Ice Cream", "Speghetti", "Chocolate", "Cookies"];
     console.log( favFood.length);
