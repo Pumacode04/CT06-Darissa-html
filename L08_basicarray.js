@@ -8,14 +8,15 @@ function setup() {
 }
 
 // forever block
-function draw() {
-    background(220);
-    noStroke();
-    rect( xpos, ypos, 50, 50 );
+// function draw() {
+//     background(220);
+//     noStroke();
+//     rect( xpos, ypos, 50, 50 );
 
-    xpos = xpos + speed;
+//     xpos = xpos + speed;
 
-    if ( xpos < 0 || xpos > width-50 ) {
-        fill( random(255), random(255), random(255) );
-        speed = speed * -1;
-    }
+//     if ( xpos < 0 || xpos > width-50 ) {
+//         fill( random(255), random(255), random(255) );
+//         speed = speed * -1;
+//     }
+// }
