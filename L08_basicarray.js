@@ -9,6 +9,7 @@ function setup() {
     let ypos = 80;
     fill("cyan");
     textSize(20);
+    text
 //    text("My name is", 50, 50);
 //    text("I am", 50, 100);
 //    text("My favourite activity is", 50, 150);
@@ -20,7 +21,7 @@ function setup() {
 //        console.log( "I like to eat " + favFood + ".");
 //        text( "I like to eat " + favFood[index] + ".", 80, ypos)
 //        ypos = ypos + 50
-        text("My Favourtie foods :")
+        text("My Favourtie foods :");
     }
 }
 
