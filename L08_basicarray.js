@@ -4,7 +4,7 @@
 // let speed = 2;
 function setup() {
     createCanvas(400, 400);
-    background("darkred");
+    background(0);
 
     fill("blue")
     textSize(32);
