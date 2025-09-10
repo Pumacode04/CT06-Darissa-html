@@ -18,12 +18,9 @@ function setup() {
     let favFood = ["Ice Cream", "Speghetti", "Chocolate", "Cookies"];
     console.log( favFood.length);
     for ( let index=0; index < favFood.length; index++) {
-//        console.log( "I like to eat " + favFood + ".");
-//        text( "I like to eat " + favFood[index] + ".", 80, ypos)
-//        ypos = ypos + 50
-        text("My Favourtie foods :", 50, 50);
-        text(i+1 + ")" + favFood[index], 50, ypos)
-        ypos = ypos + 30
+       console.log( "I like to eat " + favFood + ".");
+       text( "I like to eat " + favFood[index] + ".", 80, ypos)
+        ypos = ypos + 50
     }
 }
 
