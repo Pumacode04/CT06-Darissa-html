@@ -1,5 +1,6 @@
 // write your codes here
-xpos =
+xpos = 300
+ypos = 200;
 function setup() {
     createCanvas(600, 400);
     background(200);
