@@ -1,6 +1,6 @@
 // write your codes here
 function preload () {
-    let soundsFX = star+wars+theme
+    let soundsFX = sta
 }
 function setup() {
     createCanvas(600, 400);
