@@ -9,7 +9,7 @@ function setup() {
     fill("cyan");
     textSize(32);
     text("My name is", 50, 50);
-    text("")
+    text("I am")
 }
 
 function draw() {
