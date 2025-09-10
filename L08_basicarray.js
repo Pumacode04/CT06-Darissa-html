@@ -7,11 +7,11 @@ function setup() {
 }
 
 function draw() {
-noStroke();
-fill( random(255), random(255), random(255));
-rect(xpos, ypos, 50);
-if ( xpos > 350) {
-   xpos = xpos + 1 
-}
+    noStroke();
+    fill( random(255), random(255), random(255));
+    rect(xpos, ypos, 50);
+    if ( xpos > 350) {
+       xpos = xpos + 1 
+    }
 
 }
