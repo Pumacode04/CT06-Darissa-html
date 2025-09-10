@@ -10,7 +10,7 @@ function draw() {
     noStroke();
     background(200);
     rect(xpos, ypos, 50, 50);
-    if ( xpos > 350) {
+    if ( xpos < 350) {
        xpos = xpos + 1;
     }
     if ( xpos = 350 || 0) {
