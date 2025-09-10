@@ -8,13 +8,16 @@ function setup() {
 
 function draw() {
     noStroke();
-    background()
-    rect(xpos, ypos, 50);
+    background(200);
+    rect(xpos, ypos, 50, 50);
     if ( xpos > 350) {
        xpos = xpos + 1;
     }
     if ( xpos = 350 || 0) {
         fill( random(255), random(255), random(255));
     }
+    if (xpos < 0) {
+        
+    })
 
 }
