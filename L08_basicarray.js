@@ -7,7 +7,6 @@ function setup() {
     background(200);
 }
 
-// forever block
 // function draw() {
 //     background(220);
 //     noStroke();
@@ -20,3 +19,6 @@ function setup() {
 //         speed = speed * -1;
 //     }
 // }
+function draw() {
+    
+}
