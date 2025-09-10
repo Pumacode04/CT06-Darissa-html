@@ -11,6 +11,10 @@ function setup() {
     text("p5.js library", 80, 200);
 }
 
+function draw() {
+    
+}
+
 // function draw() {
 //     background(220);
 //     noStroke();
@@ -23,6 +27,3 @@ function setup() {
 //         speed = speed * -1;
 //     }
 // }
-function draw() {
-
-}
