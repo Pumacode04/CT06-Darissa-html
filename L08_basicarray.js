@@ -13,7 +13,7 @@ function setup() {
     text("My favourite activity is", 50, 150);
     text("Good Luck guessing :)", 50, 200);
 
-    let fav
+    let favFood = [""]
 }
 
 function draw() {
