@@ -14,7 +14,7 @@ function draw() {
        xpos = xpos + 1;
     }
     if ( xpos = 350 || 0) {
-        fill( random(255), random(255), random(255));
+        
     }
     if (xpos < 0) {
         xpos = xpos - 1
