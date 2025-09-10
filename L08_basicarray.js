@@ -1,6 +1,6 @@
 // write your codes here
-xpos = 300;
-ypos = 350;
+let xpos = 300;
+let ypos = 350;
 function setup() {
     createCanvas(600, 400);
     background(200);
