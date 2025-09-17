@@ -25,7 +25,8 @@ function draw() {
     let story = [
         "knock knock",
         "the little pig opened the door",
-        "the wolf huff"
+        "the wolf huffed",
+        
     ]
 
     if ( ypos < 0 ) {
