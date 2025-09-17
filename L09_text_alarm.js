@@ -2,7 +2,6 @@
 let speed = 1.87
 let xpos = width/2
 let ypos = 200
-let counter = 1
 function setup() {
     createCanvas(600, 400);
     background(200);
@@ -13,7 +12,6 @@ function draw() {
     textAlign(CENTER, CENTER);
     background(200);
     text("Bounce!", xpos - speed * counter, 200);
-    counter = counter + 1;
     if ( xpos < 0 ) {
         speed = speed * -1;
     }
