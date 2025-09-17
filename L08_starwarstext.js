@@ -26,7 +26,9 @@ function draw() {
 
     ]
 
-    if ( ypos < 0 )
+    if ( ypos < 0 ) {
+        ypos = h
+    }
 
     ypos = ypos - 0.6;
     if (keyIsDown(32) ) {
