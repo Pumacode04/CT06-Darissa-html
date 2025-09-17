@@ -1,6 +1,6 @@
 // write your codes here
-let speed = 1.87;
-let xpos = width/2;
+let speed;
+let xpos;
 function setup() {
     createCanvas(600, 400);
     background(200);
