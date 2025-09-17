@@ -26,8 +26,8 @@ function draw() {
 
     ]
 
+    if ( ypos < 0 )
 
-    
     ypos = ypos - 0.6;
     if (keyIsDown(32) ) {
         soundsFX.play();
