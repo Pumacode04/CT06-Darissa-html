@@ -27,6 +27,7 @@ function draw() {
         "the little pig opened the door",
         "the wolf huffed",
         "and puffed",
+        "BOOM",
         ""
     ]
 
