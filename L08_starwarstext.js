@@ -28,7 +28,8 @@ function draw() {
         "the wolf huffed",
         "and puffed",
         "BOOM",
-        "the pig"
+        "the house blew up",
+        "the little pig "
     ]
 
     if ( ypos < 0 ) {
