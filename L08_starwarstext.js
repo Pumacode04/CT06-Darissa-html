@@ -18,8 +18,8 @@ function draw() {
     background(0);
     translate( width/2, ypos );
     textAlign(center, center);
-    text("the beginning of the star wars story...", 0, 0)
-    TEXT("AT EPISODE 4 IN THE YEAR 1995", 0, 50)
+    text("the beginning of the star wars story...", 0, 0);
+    text("AT EPISODE 4 IN THE YEAR 1995", 0, 50);
     ypos = ypos - 1;
     if (keyIsDown(32) ) {
         soundsFX.play();
