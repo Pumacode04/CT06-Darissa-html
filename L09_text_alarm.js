@@ -26,5 +26,6 @@ function setup() {
 }
 function draw() {
     let hourNumber = hour();
-    let minuteNumber = mintue
+    let minuteNumber = mintue();
+    let secondNumber = 
 }
