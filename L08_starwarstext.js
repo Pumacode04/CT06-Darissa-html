@@ -24,7 +24,7 @@ function draw() {
 
     let story = [
         "Welcome to",
-        
+        ""
     ]
 
     if ( ypos < 0 ) {
