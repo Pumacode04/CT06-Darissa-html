@@ -25,5 +25,5 @@ function setup() {
     background(200);
 }
 function draw() {
-    
+    let hourNumber = hour()
 }
