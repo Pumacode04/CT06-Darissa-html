@@ -15,7 +15,7 @@ function draw() {
     textAlign(CENTER, CENTER);
     text("Bounce!", 0, 0);
     xpos = xpos + speed;
-    if ( xpos < 0 ) {
+    if ( xpos < 0  ) {
         speed = speed * -1;
      }
     if ( xpos > 600 ) {
