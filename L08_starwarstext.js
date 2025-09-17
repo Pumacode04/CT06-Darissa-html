@@ -23,11 +23,11 @@ function draw() {
     text("AT EPISODE 4 IN THE YEAR 1995", 0, 50);
 
     let story = [
-
+        
     ]
 
     if ( ypos < 0 ) {
-        ypos = h
+        ypos = height;
     }
 
     ypos = ypos - 0.6;
