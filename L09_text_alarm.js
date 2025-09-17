@@ -31,7 +31,7 @@ function draw() {
     let minuteNumber = minute();
     let secondNumber = second();
 
-    let timeNow = [hourNumber, minute]
+    let timeNow = [hourNumber, minuteNumber, secondNumber];]
 
     textAlign(CENTER, CENTER);
     textSize(48);
