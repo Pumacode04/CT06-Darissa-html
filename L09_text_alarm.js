@@ -10,9 +10,11 @@ function setup() {
 
 function draw() {
     text("Bounce!", xpos - speed * 1, 200);
-    speed = speed * -1;
     counter = counter + 1;
     if ( xpos < 0 ) {
         speed = speed * -1;
+    }
+    if ( xpos > 600 ) {
+        
     }
 }
