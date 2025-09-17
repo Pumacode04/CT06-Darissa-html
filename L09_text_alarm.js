@@ -5,5 +5,6 @@ function setup() {
 }
 
 function draw() {
-    text("Bounce!", )
+    text("Bounce!", 300, 200);
+)
 }
