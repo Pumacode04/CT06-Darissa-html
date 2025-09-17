@@ -14,10 +14,10 @@ function draw() {
     textAlign(CENTER, CENTER);
     background(200);
     text("Bounce!", 0, 0);
-    if ( xpos < 0 ) {
-        speed = speed * -1;
-    }
-    if ( xpos > 600 ) {
-        speed = speed * -1;
-    }
+    // if ( xpos < 0 ) {
+    //     speed = speed * -1;
+    // }
+    // if ( xpos > 600 ) {
+    //     speed = speed * -1;
+    // }
 }
