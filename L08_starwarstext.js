@@ -39,7 +39,7 @@ function draw() {
 
     for (let index=0; index< story.length; index ++); {
         text( story[index], 0, textY);
-        textY = 
+        textY = textY + 35;
     }
 
     if ( ypos < 0 ) {
