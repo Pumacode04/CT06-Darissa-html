@@ -30,5 +30,6 @@ function draw() {
     let secondNumber = second();
 
     textAlign(CENTER, CENTER);
-    
+    textSize(48);
+    text
 }
