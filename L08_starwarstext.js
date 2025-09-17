@@ -10,7 +10,7 @@ function setup() {
     createCanvas(600, 400);
     background(0);
     fill("cyan");
-    textSize(18);
+    textSize(48);
     ypos = height;
 }
 
