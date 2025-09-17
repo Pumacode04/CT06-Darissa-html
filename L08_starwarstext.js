@@ -30,7 +30,8 @@ function draw() {
         "BOOM",
         "the house blew up",
         "the little pig was as dead as a doorknob",
-        ""
+        "the wolf ate him",
+        "THE END"
     ]
 
     if ( ypos < 0 ) {
