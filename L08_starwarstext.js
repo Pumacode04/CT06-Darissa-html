@@ -24,7 +24,7 @@ function draw() {
 
     let story = [
         "knock knock",
-        "",
+        "the little pig opened the door",
         ""
     ]
 
