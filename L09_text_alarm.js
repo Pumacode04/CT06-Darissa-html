@@ -9,7 +9,8 @@ function setup() {
 }
 
 function draw() {
-    textSize()
+    textSize(28);
+    
     text("Bounce!", xpos - speed * 1, 200);
     counter = counter + 1;
     if ( xpos < 0 ) {
