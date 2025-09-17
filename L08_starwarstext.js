@@ -23,7 +23,7 @@ function draw() {
     text("AT EPISODE 4 IN THE YEAR 1995", 0, 50);
 
     let story = [
-        "Mary had ",
+        "",
         "AHHHHHHHHH",
         ""
     ]
