@@ -4,7 +4,8 @@ let xpos = width/2;
 function setup() {
     createCanvas(600, 400);
     background(200);
-    speed = 1.87
+    speed = 1.87;
+    let xpos = width/2;
 }
 
 function draw() {
