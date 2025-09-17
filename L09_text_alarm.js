@@ -1,5 +1,5 @@
 // write your codes here
-let speed = 0.87
+let speed = 5
 let xpos = 300
 let ypos = 200
 let counter = 1
@@ -9,6 +9,7 @@ function setup() {
 }
 
 function draw() {
+    
     text("Bounce!", xpos - speed * 1, 200);
     counter = counter + 1;
     if ( xpos < 0 ) {
