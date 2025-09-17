@@ -9,7 +9,7 @@ function preload () {
 function setup() {
     createCanvas(600, 400);
     background(0);
-    sounds.FX(loo)
+    sounds.FX();
     fill("cyan");
     textSize(48);
     ypos = height;
