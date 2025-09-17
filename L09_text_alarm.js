@@ -9,6 +9,7 @@ function setup() {
 }
 
 function draw() {
+    background(220);
     textSize(28);
     translate( xpos, height/2);
     textAlign(CENTER, CENTER);
