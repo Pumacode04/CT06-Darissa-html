@@ -31,9 +31,9 @@ function draw() {
     let minuteNumber = minute();
     let secondNumber = second();
 
-    let timeNow = [hourNumber, minuteNumber, secondNumber];]
+    let timeNow = [hourNumber, minuteNumber, secondNumber];
 
     textAlign(CENTER, CENTER);
     textSize(48);
-    text( secondNumber, width/2, height/2);
+    text( timeNow, width/2, height/2);
 }
