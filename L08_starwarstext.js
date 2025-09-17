@@ -23,6 +23,8 @@ function draw() {
     text("AT EPISODE 4 IN THE YEAR 1995", 0, 50);
 
     let story = [
+        "the beginning of the star wars story"
+        "AT EPISODE 4 IN THE YEAR 1995",
         "knock knock",
         "the little pig opened the door",
         "the wolf huffed",
@@ -33,6 +35,8 @@ function draw() {
         "the wolf ate him",
         "THE END"
     ]
+
+    for (let index=0; index< story.length; index ++);
 
     if ( ypos < 0 ) {
         ypos = height;
