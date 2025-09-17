@@ -1,5 +1,5 @@
 // write your codes here
-let speed = 5
+let speed = 1.87
 let xpos = 300
 let ypos = 200
 let counter = 1
