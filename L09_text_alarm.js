@@ -13,6 +13,6 @@ function draw() {
     speed = speed * -1;
     counter = counter + 1;
     if ( xpos < 0 ) {
-        speed 
+        speed = speed * -1;
     }
 }
