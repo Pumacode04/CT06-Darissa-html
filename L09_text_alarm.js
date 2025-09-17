@@ -30,6 +30,8 @@ function draw() {
     let minuteNumber = mintue();
     let secondNumber = second();
 
+    time
+
     textAlign(CENTER, CENTER);
     textSize(48);
     text( minuteNumber, width/2, height/2)
