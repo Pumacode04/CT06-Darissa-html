@@ -16,7 +16,7 @@ function draw() {
     text("Bounce!", 0, 0);
     xpos = xpos + speed;
     if ( xpos < 0 ) {
-     speed = speed * -1;
+        speed = speed * -1;
      }
     if ( xpos > 600 ) {
         speed = speed * -1
