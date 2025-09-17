@@ -7,7 +7,7 @@ function preload () {
 
 }
 function setup() {
-    createCanvas(600, 1400);
+    createCanvas(600, 500);
     background(0);
     soundsFX.loop();
     fill("cyan");
