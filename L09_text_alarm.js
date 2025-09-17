@@ -31,5 +31,5 @@ function draw() {
 
     textAlign(CENTER, CENTER);
     textSize(48);
-    text( minuteNumber, width)
+    text( minuteNumber, width/2, hegiht)
 }
