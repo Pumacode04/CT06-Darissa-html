@@ -19,7 +19,7 @@ function draw() {
     translate( width/2, ypos );
     textAlign(center, center);
     text("the beginning of the star wars story...", 0, 0)
-    TEXT("AT E")
+    TEXT("AT EPISODE 4 IN THE YEAR 1995"), 
     ypos = ypos - 1;
     if (keyIsDown(32) ) {
         soundsFX.play();
