@@ -22,7 +22,7 @@ function draw() {
     textAlign(CENTER, CENTER);
     //text("the beginning of the star wars story...", 0, 0);
     //text("AT EPISODE 4 IN THE YEAR 1995", 0, 50);
-    text()
+    text(story);
 
     let story = [
         "the beginning of the star wars story",
