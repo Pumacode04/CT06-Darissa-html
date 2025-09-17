@@ -15,7 +15,7 @@ function setup() {
 }
 
 function draw() {
-    translate
+    translate( width/2, ypos )
     text("the beginning of the star wars story...", 0, 0)
     if (keyIsDown(32) ) {
         soundsFX.play();
