@@ -11,7 +11,7 @@ function setup() {
     background(0);
     soundsFX.loop();
     fill("cyan");
-    textSize(48);
+    textSize(28);
     ypos = height;
 }
 
