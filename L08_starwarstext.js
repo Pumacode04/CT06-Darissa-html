@@ -24,6 +24,7 @@ function draw() {
 
     let story = [
         "Welcome to",
+        "AHHHHHHHHH",
         ""
     ]
 
