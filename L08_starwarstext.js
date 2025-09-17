@@ -18,7 +18,7 @@ function setup() {
 function draw() {
     background(0);
     translate( width/2, ypos );
-    textAlign(CENTER< );
+    textAlign(CENTER, CENTER);
     text("the beginning of the star wars story...", 0, 0);
     text("AT EPISODE 4 IN THE YEAR 1995", 0, 50);
     ypos = ypos - 1;
