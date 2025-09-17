@@ -16,6 +16,6 @@ function draw() {
         speed = speed * -1;
     }
     if ( xpos > 600 ) {
-        speed = speed * 1;
+        speed = speed * -1;
     }
 }
