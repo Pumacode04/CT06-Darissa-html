@@ -26,8 +26,9 @@ function setup() {
 }
 
 function draw() {
+    background()
     let hourNumber = hour();
-    let minuteNumber = mine();
+    let minuteNumber = minute();
     let secondNumber = second();
 
     let timeNow = 
