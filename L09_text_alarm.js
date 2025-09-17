@@ -12,7 +12,7 @@ function draw() {
     textSize(28);
     textAlign(CENTER, CENTER);
     background(200);
-    text("Bounce!", xpos - speed * 1, 200);
+    text("Bounce!", xpos - speed * counter, 200);
     counter = counter + 1;
     if ( xpos < 0 ) {
         speed = speed * -1;
