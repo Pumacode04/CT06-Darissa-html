@@ -30,8 +30,9 @@ function draw() {
     let hourNumber = hour();
     hourNumber = nf(hourNumber, 2);
     let minuteNumber = minute();
-    minuteNumber = nf(minute)
+    minuteNumber = nf(minuteNumber, 2);
     let secondNumber = second();
+    
 
     let timeNow = [hourNumber, minuteNumber, secondNumber];
 
