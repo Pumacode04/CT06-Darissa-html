@@ -11,7 +11,7 @@ function draw() {
     translate(CENTER, CENTER);
     textAlign(CENTER, CENTER);
     background(200);
-    text("Bounce!", xpos - speed, 0);
+    text("Bounce!", 0, 0);
     if ( xpos < 0 ) {
         speed = speed * -1;
     }
