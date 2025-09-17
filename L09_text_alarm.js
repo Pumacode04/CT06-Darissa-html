@@ -1,6 +1,6 @@
 // write your codes here
 let speed = 1.87
-let xpos = 0
+let xpos = width/2
 let ypos = 200
 let counter = 1
 function setup() {
