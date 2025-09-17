@@ -16,6 +16,7 @@ function setup() {
 }
 
 function draw() {
+    let textY = 0;
     background(0);
     translate( width/2, ypos );
     textAlign(CENTER, CENTER);
@@ -37,7 +38,7 @@ function draw() {
     ]
 
     for (let index=0; index< story.length; index ++); {
-        text( )
+        text( story[index], 0, textY);
     }
 
     if ( ypos < 0 ) {
