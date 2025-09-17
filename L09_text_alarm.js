@@ -28,6 +28,7 @@ function setup() {
 function draw() {
     background(200);
     let hourNumber = hour();
+    hourNumber = nf()
     let minuteNumber = minute();
     let secondNumber = second();
 
