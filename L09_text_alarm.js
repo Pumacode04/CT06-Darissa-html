@@ -21,6 +21,6 @@
 // }
 
 function setup() {
-    createCanvas();
-    background
+    createCanvas(600, 400);
+    background(200);
 }
