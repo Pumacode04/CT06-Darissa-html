@@ -90,7 +90,9 @@ function draw() {
         objectId = setInterval( doSomething, 1000 );
     }
 
-    
+    function doSomething () {
+        
+    }
     
 
 //    let pi = 3.14159267189
