@@ -80,10 +80,10 @@ function draw() {
         if (keyCode === UP_ARROW) {
             bgColor = color( random(0, 255), random(0, 255), random(0, 255));
         }
-        else if (keyCode === 49){ // keyCode 49 is 1
-            counter--; // == counter = counter - 1
-            counter = constrain(counter, 0, 5);
-        }
+//        else if (keyCode === 49){ // keyCode 49 is 1
+//            counter--; // == counter = counter - 1
+//            counter = constrain(counter, 0, 5);
+//        }
     }
 
     function mousePressed() {
