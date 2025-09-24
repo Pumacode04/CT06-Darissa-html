@@ -47,7 +47,7 @@ function draw() {
     text( timeNow, width/2, height/2);
 
     let counter = 5;
-    counter = nf(counter, 2, 1);
+    counter = nf(counter, 1);
 
     fill(255, 0, 0);
     textSize(32);
