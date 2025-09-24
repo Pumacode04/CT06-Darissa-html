@@ -45,6 +45,7 @@ function draw() {
     let counter = 5;
     counter = nf(counter, 2, 1);
     text("Counterdown Timer", width/2, height/2+ 50);
+    
 
 //    let pi = 3.14159267189
 //    pi = nf(pi, 2, 4); // 4 decimal place
