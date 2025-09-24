@@ -43,5 +43,6 @@ function draw() {
 
     let pi = 3.14159267189
     pi = nf(pi, 2, 4); // 4 decimal place
-    fill()
+    fill(255, 0, 0);
+    text("")
 }
