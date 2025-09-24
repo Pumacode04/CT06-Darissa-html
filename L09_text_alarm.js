@@ -22,6 +22,8 @@
 let counter = 5;
 let soundsFX;
 let bgColor = 200;
+
+let objectId 
 function preload() {
     soundsFX = loadSound("assets/DunDunDunnn.mp3");
 }
