@@ -73,6 +73,7 @@ function draw() {
         }
         else if (keyCode === 49){ // keyCode 49 is 1
             counter--; // == counter = counter - 1
+            counter = constrain(counter, 0, )
         }
     }
 
