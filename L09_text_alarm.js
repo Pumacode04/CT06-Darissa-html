@@ -36,7 +36,7 @@ function setup() {
 }
 
 function doSomething() {
-    console.log("")
+    console.log("Haii :3")
 }
 
 function draw() {
