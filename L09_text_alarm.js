@@ -91,13 +91,14 @@ function draw() {
     }
 
     function doSomething () {
-        couther--;
+        counher--;
         counter = constrain(counter, 0, 5);
     }
 
     if (counter === 0) {
         clearInterval( objectId );
         soundsFX.play();
+        
     }
     
 
