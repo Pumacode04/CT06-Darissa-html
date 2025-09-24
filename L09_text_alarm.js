@@ -42,7 +42,7 @@ function draw() {
     textSize(48);
     text( timeNow, width/2, height/2);
 
-        let 
+        let counter = 5
 //    let pi = 3.14159267189
 //    pi = nf(pi, 2, 4); // 4 decimal place
 //    fill(255, 0, 0);
