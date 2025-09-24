@@ -59,7 +59,7 @@ function draw() {
         soundFX.play();
     }
     else if (keyIsDown(DOWN_ARROW)) {
-        soundfx.stop();
+        soundFX.stop();
     }
 
 
