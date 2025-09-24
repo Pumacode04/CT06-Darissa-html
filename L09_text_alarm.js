@@ -96,7 +96,7 @@ function draw() {
     }
 
     if (counter === 0) {
-        clearInterval
+        clearInterval( objectId );
     }
     
 
