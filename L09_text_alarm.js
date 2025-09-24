@@ -26,9 +26,8 @@ function preload() {
 }
 
 function setup() {
-    let bgColor = 200
     createCanvas(600, 400);
-    background(bgColour);
+    background(bgColor);
 }
 
 function draw() {
