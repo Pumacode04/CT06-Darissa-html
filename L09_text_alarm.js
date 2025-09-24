@@ -19,6 +19,7 @@
 //         speed = speed * -1;
 //      }
 // }
+let soundsFX;
 function preload(){
     
 }
