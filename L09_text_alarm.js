@@ -21,7 +21,7 @@
 // }
 let soundsFX;
 function preload(){
-    soundsFX = asse
+    soundsFX = loadText("assets/")
 }
 
 function setup() {
