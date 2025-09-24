@@ -55,7 +55,7 @@ function draw() {
     text(counter, width/2, height/2+ 100);
     text("--Click me to start the timer--", width/2, height/2+ 150);
 
-    if(keyIsDown(32)){
+    if (keyIsDown(32)){
         soundFX.play();
     }
     else if (keyIsDown(DOWN_ARROW)) {
