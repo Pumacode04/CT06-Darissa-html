@@ -36,7 +36,7 @@ function setup() {
 }
 
 function doSomething() {
-    console.log("Haii :3")
+    console.log("Haii :3 *draws heart*")
 }
 
 function draw() {
