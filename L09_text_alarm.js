@@ -21,7 +21,7 @@
 // }
 let soundsFX;
 function preload() {
-    soundsFX = loadSound("assets/.mp3");
+    soundsFX = loadSound("assets/DunDunDunnn.mp3");
 }
 
 function setup() {
