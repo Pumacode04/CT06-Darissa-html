@@ -20,7 +20,7 @@
 //      }
 // }
 let soundsFX;
-let bgColor = 220;
+let bgColor = 200;
 function preload() {
     soundsFX = loadSound("assets/DunDunDunnn.mp3");
 }
