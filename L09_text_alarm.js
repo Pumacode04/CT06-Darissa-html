@@ -28,9 +28,9 @@ function setup() {
 function draw() {
     background(200);
     let hourNumber = hour();
-    hourNumber = nf(hourNumber, 5);
+    hourNumber = nf(hourNumber, 2);
     let minuteNumber = minute();
-    minuteNumber = nf(minuteNumber, 6);
+    minuteNumber = nf(minuteNumber, 2);
     let secondNumber = second();
     secondNumber = nf(secondNumber, 2);
 
