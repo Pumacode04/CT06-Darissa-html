@@ -98,7 +98,9 @@ function draw() {
     if (counter === 0) {
         clearInterval( objectId );
         soundsFX.play();
-        
+        for (let index=0; index<10; index++) {
+            
+        }
     }
     
 
