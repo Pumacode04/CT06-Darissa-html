@@ -32,12 +32,12 @@ function setup() {
     createCanvas(600, 400);
     background(bgColor);
 
-    objectId = setInterval ( doSomething, 1000);
+//    objectId = setInterval ( doSomething, 1000);
 }
 
-function doSomething() {
-    console.log("Haii :3 *draws heart*");
-}
+//function doSomething() {
+//    console.log("Haii :3 *draws heart*");
+//}
 
 function draw() {
     background(bgColor);
