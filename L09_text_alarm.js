@@ -66,6 +66,11 @@ function draw() {
         bgColor = color( random(0, 255), random(0, 255), random(0, 255));
     }
 
+    function keyPressed() {
+        if (keyCode === UP_ARROW) {
+            
+        }
+    }
 
 //    let pi = 3.14159267189
 //    pi = nf(pi, 2, 4); // 4 decimal place
