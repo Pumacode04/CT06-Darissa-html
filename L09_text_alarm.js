@@ -19,7 +19,9 @@
 //         speed = speed * -1;
 //      }
 // }
-
+function preload(){
+    
+}
 
 function setup() {
     createCanvas(600, 400);
