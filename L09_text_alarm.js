@@ -41,7 +41,7 @@ function setup() {
 
 function draw() {
 
-    
+
 
     background(bgColor);
     let hourNumber = hour();
@@ -91,7 +91,6 @@ function draw() {
 
     function mousePressed() {
         objectId = setInterval( doSomething, 1000 );
-        bgColor = color(255, 0, 0);
     }
 
     function doSomething () {
