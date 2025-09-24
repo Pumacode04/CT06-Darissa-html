@@ -63,7 +63,7 @@ function draw() {
         soundsFX.stop();
     }
     else if (keyIsDown(DOWN_ARROW)) {
-        bgColor
+        bgColor = 
     }
 
 
