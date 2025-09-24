@@ -62,6 +62,9 @@ function draw() {
     else if (keyIsDown(DOWN_ARROW)) {
         soundsFX.stop();
     }
+    else if (keyIsDown(DOWN_ARROW)) {
+        
+    }
 
 
 //    let pi = 3.14159267189
