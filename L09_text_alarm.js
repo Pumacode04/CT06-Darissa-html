@@ -88,7 +88,7 @@ function draw() {
 
     function mousePressed() {
         objectId = setInterval( doSomething, 1000 );
-        
+        bgColor = "red"
     }
 
     function doSomething () {
