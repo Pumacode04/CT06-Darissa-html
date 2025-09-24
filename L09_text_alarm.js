@@ -71,6 +71,9 @@ function draw() {
         if (keyCode === UP_ARROW) {
             bgColor = color( random(0, 255), random(0, 255), random(0, 255));
         }
+        else if (keyCode === 49){
+            
+        }
     }
 
 //    let pi = 3.14159267189
