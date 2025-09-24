@@ -63,7 +63,7 @@ function draw() {
         soundsFX.stop();
     }
     else if (keyIsDown(DOWN_ARROW)) {
-        bgColor = color( random(0, 255), random(0, 255), random(0))
+        bgColor = color( random(0, 255), random(0, 255), random(0, 255));
     }
 
 
