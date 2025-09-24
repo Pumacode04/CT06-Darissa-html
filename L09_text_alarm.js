@@ -72,7 +72,7 @@ function draw() {
             bgColor = color( random(0, 255), random(0, 255), random(0, 255));
         }
         else if (keyCode === 49){
-            
+            counter--;
         }
     }
 
