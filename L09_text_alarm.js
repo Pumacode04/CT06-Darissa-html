@@ -86,6 +86,10 @@ function draw() {
         }
     }
 
+    function mousePressed() {
+        clear
+    }
+
     
 
 //    let pi = 3.14159267189
