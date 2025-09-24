@@ -35,7 +35,7 @@ function draw() {
     secondNumber = nf(secondNumber, 2);
 
    // let timeNow = [hourNumber, minuteNumber, secondNumber];
-   fill
+   fill(0);
    let timeNow = hourNumber + ":" + minuteNumber + ":" + secondNumber
 
     textAlign(CENTER, CENTER);
