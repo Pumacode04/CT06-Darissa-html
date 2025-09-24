@@ -42,5 +42,6 @@ function draw() {
     text( timeNow, width/2, height/2);
 
     let pi = 3.14159267189
-    pi = nf(pi, 2, 4); 
+    pi = nf(pi, 2, 4); // 4 decimal place
+    
 }
