@@ -87,7 +87,7 @@ function draw() {
     }
 
     function mousePressed() {
-        clear
+        clearInterval( objectId )
     }
 
     
