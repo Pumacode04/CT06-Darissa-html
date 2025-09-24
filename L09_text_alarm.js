@@ -99,7 +99,7 @@ function draw() {
         clearInterval( objectId );
         soundsFX.play();
         for (let index=0; index<10; index++) {
-            bgColor = color
+            bgColor = color( random(255), random(255), random(255) );
         }
     }
     
