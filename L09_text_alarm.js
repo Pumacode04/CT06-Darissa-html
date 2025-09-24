@@ -55,6 +55,10 @@ function draw() {
     text(counter, width/2, height/2+ 100);
     text("--Click me to start the timer--", width/2, height/2+ 150);
 
+    if(keyIsDown(32)){
+        
+    }
+
 
 //    let pi = 3.14159267189
 //    pi = nf(pi, 2, 4); // 4 decimal place
