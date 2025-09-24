@@ -92,7 +92,8 @@ function draw() {
 
     function doSomething () {
         couther--;
-        counter = constrain(counter, )
+        counter = constrain(counter, 0, 5);
+        
     }
     
 
