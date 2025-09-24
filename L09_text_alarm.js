@@ -95,7 +95,7 @@ function draw() {
         counter = constrain(counter, 0, 5);
     }
 
-    
+    if (counter ===)
     
 
 //    let pi = 3.14159267189
