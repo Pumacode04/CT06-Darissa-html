@@ -50,7 +50,7 @@ function draw() {
     counter = nf(counter, 2, 1);
 
     fill(255, 0, 0);
-    textSize()
+    textSize(32);
     text("Counterdown Timer :", width/2, height/2+ 50);
     text(counter, width/2, height/2+ 100);
     text("--Click me to start the timer--", width/2, height/2+ 150);
