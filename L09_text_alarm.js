@@ -21,7 +21,7 @@
 // }
 let soundsFX;
 function preload(){
-    soundsFX = loadText("assets/")
+    soundsFX = loadText("assets/bossaNova.mp")
 }
 
 function setup() {
