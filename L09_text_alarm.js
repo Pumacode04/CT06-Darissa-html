@@ -41,5 +41,5 @@ function draw() {
     textSize(48);
     text( timeNow, width/2, height/2);
 
-    let pi = 
+    let pi = 3.14159267189
 }
