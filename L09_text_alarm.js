@@ -32,8 +32,10 @@ function setup() {
     createCanvas(600, 400);
     background(bgColor);
 
-    objectId = setInter
+    objectId = setInterval ( doSomething, 1000);
 }
+
+
 
 function draw() {
     background(bgColor);
