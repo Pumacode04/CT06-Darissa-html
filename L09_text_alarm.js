@@ -19,6 +19,7 @@
 //         speed = speed * -1;
 //      }
 // }
+let counter = 5;
 let soundsFX;
 let bgColor = 200;
 function preload() {
