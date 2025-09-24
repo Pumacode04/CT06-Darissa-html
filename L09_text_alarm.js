@@ -44,7 +44,7 @@ function draw() {
 
     let counter = 5;
     counter = nf(counter, 2, 1);
-    
+    text("Counter")
 //    let pi = 3.14159267189
 //    pi = nf(pi, 2, 4); // 4 decimal place
 //    fill(255, 0, 0);
