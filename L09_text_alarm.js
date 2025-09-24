@@ -93,8 +93,9 @@ function draw() {
     function doSomething () {
         couther--;
         counter = constrain(counter, 0, 5);
-        
     }
+
+    
     
 
 //    let pi = 3.14159267189
