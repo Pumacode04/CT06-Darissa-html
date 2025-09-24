@@ -35,17 +35,17 @@ function draw() {
     secondNumber = nf(secondNumber, 2);
 
    // let timeNow = [hourNumber, minuteNumber, secondNumber];
+   
    fill(0);
    let timeNow = hourNumber + ":" + minuteNumber + ":" + secondNumber
 
     textAlign(CENTER, CENTER);
-    textSize(48);
     text( timeNow, width/2, height/2);
 
     let counter = 5;
     counter = nf(counter, 2, 1);
     text("Counterdown Timer", width/2, height/2+ 50);
-    
+
 
 
 //    let pi = 3.14159267189
