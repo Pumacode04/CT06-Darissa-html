@@ -35,7 +35,9 @@ function setup() {
     objectId = setInterval ( doSomething, 1000);
 }
 
-
+function doSomething() {
+    console.lo
+}
 
 function draw() {
     background(bgColor);
