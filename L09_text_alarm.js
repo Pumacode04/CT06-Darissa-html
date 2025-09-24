@@ -21,7 +21,7 @@
 // }
 let soundsFX;
 function preload() {
-    soundsFX = loadText("assets/bossaNova.mp3");
+    soundsFX = loadSound("assets/bossaNova.mp3");
 }
 
 function setup() {
