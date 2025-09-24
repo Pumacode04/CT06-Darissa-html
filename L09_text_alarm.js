@@ -47,7 +47,7 @@ function draw() {
 
     text("Counterdown Timer", width/2, height/2+ 50);
     text(counter, width/2, height/2+ 100);
-    text("Click me to start the time--");
+    text("--Click me to start the time--");
 
 
 //    let pi = 3.14159267189
