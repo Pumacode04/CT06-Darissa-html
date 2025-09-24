@@ -21,7 +21,7 @@
 // }
 let soundsFX;
 function preload(){
-    
+    soundsFX = asse
 }
 
 function setup() {
