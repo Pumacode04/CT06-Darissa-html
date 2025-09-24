@@ -31,7 +31,7 @@ function setup() {
 }
 
 function draw() {
-    background(200);
+    background(bgColor);
     let hourNumber = hour();
     hourNumber = nf(hourNumber, 2);
     let minuteNumber = minute();
