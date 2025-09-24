@@ -87,7 +87,7 @@ function draw() {
     }
 
     function mousePressed() {
-        objectI;
+        objectId = setInterval;
     }
 
     
