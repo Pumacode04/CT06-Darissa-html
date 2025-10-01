@@ -3,7 +3,7 @@ let bgColor = "lavender";
 let colorPicker;
 let username = "Write something";
 let userInput;
-let bgInput:
+let bgInput;
 
 function setup() {
     createCanvas(600, 600);
