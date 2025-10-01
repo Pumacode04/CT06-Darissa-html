@@ -26,7 +26,7 @@ function updateLabel() {
 }
 
 function UpdateAge(){
-    ageInput = 
+    ageInput = ageInput.value();
 }
 
 function draw() {
