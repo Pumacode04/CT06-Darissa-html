@@ -13,4 +13,4 @@ function draw(){
 
 //pretty colours :
 //peach : 255, 229, 229
-//214, 216, 255
+//purple : 214, 216, 255
