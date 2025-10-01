@@ -13,7 +13,7 @@ function setup() {
     colorPicker.position( width/2-25, height/2);
 
     userInput = createInput()
-    userInput.position( width/2-10, height/2+110);
+    userInput.position( width/2-10, height/2+100);
     userInput.input(updateLabel);
 
 }
