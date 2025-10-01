@@ -12,4 +12,4 @@ function draw(){
 //! Red, Green, Blue. 0-255.
 
 //pretty colours :
-//peach : 
+//peach : 255, 229, 229
