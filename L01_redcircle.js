@@ -14,6 +14,8 @@ function draw(){
 //pretty colours :
 //peach : 255, 229, 229
 //purple : 214, 216, 255
+or
+
 //light green : 232, 255, 239
 //Marcoon : 143, 66, 66
 //lemon : 254, 252, 190
