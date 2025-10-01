@@ -12,11 +12,10 @@ function setup() {
     colorPicker = createColorPicker(bgColor);
     colorPicker.position( width/2-25, height/2);
 
-    userInput= createInput()
+    userInput = createInput()
     userInput.position( width/2-125, height/2+100);
     userInput.input(updateLabel);
 
-    
 }
 
 function updateLabel() {
@@ -38,5 +37,5 @@ function draw() {
     text("Name:", width/2-200, height/2+110);
 
     textAlign(RIGHT, CENTER);
-    text("Choose Background:", width/2-10, height/2+60);
+    text("Choose Background color:", width/2-10, height/2+60);
 }
