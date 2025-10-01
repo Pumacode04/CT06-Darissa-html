@@ -3,7 +3,7 @@ let bgColor = "lavender";
 let colorPicker;
 let username = "Write something";
 let userInput;
-let bgInput;
+let ageInput;
 
 function setup() {
     createCanvas(600, 600);
@@ -16,6 +16,7 @@ function setup() {
     userInput.position( width/2-180, height/2+100);
     userInput.input(updateLabel);
 
+    
 }
 
 function updateLabel() {
