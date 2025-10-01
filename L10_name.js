@@ -16,6 +16,6 @@ function draw() {
     rect(100, 100, 400, 200, 25);
     fill("Black")
     textSize(32);
-    textSlign(CENTER, CENTER);
+    textAlign(CENTER, CENTER);
     text("Your name", width/2, 150);
 }
