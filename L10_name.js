@@ -25,6 +25,10 @@ function updateLabel() {
     username = userInput.value();
 }
 
+function UpdateAge(){
+    
+}
+
 function draw() {
     background( colorPicker.value() );
     fill("white")
