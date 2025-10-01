@@ -24,6 +24,7 @@ let soundsFX;
 let bgColor = 200;
 
 let objectId;
+let
 function preload() {
     soundsFX = loadSound("assets/DunDunDunnn.mp3");
 }
