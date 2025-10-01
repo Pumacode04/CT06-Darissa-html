@@ -34,5 +34,5 @@ function draw() {
     text("Caption:", width/2-200, height/2+110);
 
     textAlign(RIGHT, CENTER);
-    
+    text("")
 }
