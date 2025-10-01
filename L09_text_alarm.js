@@ -111,7 +111,7 @@ function draw() {
 
         if(blinkCounter === 10) {
             clearInterval( secondId );
-            
+            bgColor = 200;
         }
     }
 
