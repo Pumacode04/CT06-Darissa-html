@@ -106,7 +106,7 @@ function draw() {
     let blinkCounter = 0;
 
     function blinkBG() {
-        
+        blibkCounter
     }
 
 //    let pi = 3.14159267189
