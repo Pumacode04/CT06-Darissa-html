@@ -6,7 +6,7 @@ function setup() {
     createCanvas(600, 400);
     background(bgColor);
 
-    
+    colorPick
 }
 
 function draw() {
