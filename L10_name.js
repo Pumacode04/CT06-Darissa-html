@@ -14,5 +14,8 @@ function draw() {
     background( colorPicker.value() );
     fill("white")
     rect(100, 100, 400, 200, 25);
-    text("Your name", width)
+    fill("Black")
+    textSize(32);
+    textSlign(CENTER, CENTER);
+    text("Your name", width/2, 150);
 }
