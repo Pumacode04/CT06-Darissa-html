@@ -1,5 +1,6 @@
 // write your codes here
 let bgColor = "darkred";
+let color
 
 function setup() {
     createCanvas(600, 400);
