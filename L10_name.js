@@ -3,9 +3,9 @@ let bgColor = "darkred";
 
 function setup() {
     createCanvas(600, 400);
-    background(bgCoolor);
+    background(bgColor);
 }
 
 function draw() {
-
+    
 }
