@@ -2,7 +2,7 @@
 let bgColor = "darkred";
 let colorPicker;
 let username = "Princess Cherry";
-let userIn
+let userInput;
 
 function setup() {
     createCanvas(600, 600);
