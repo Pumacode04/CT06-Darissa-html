@@ -17,7 +17,7 @@ function setup() {
     userInput.input(updateLabel);
 
     ageInput = creatInput();
-    
+    ageInput.position( width/2-260)
 }
 
 function updateLabel() {
