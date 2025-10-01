@@ -16,3 +16,4 @@ function draw(){
 //purple : 214, 216, 255
 //light green : 232, 255, 239
 //Marcoon : 143, 66, 66
+//lemon : 254, 252, 190
