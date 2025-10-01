@@ -15,3 +15,4 @@ function draw(){
 //peach : 255, 229, 229
 //purple : 214, 216, 255
 //light green : 232, 255, 239
+//c143, 66, 66
