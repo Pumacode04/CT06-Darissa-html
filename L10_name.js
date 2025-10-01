@@ -1,7 +1,7 @@
 // write your codes here
 let bgColor = "lavender";
 let colorPicker;
-let username = "Write something";
+let username = "Name";
 let userInput;
 let ageInput = "Age";
 
