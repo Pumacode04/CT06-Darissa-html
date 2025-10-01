@@ -1,7 +1,7 @@
 // write your codes here
 let bgColor = "lavender";
 let colorPicker;
-let username = "Princess Cherry";
+let username = "Write something";
 let userInput;
 
 function setup() {
