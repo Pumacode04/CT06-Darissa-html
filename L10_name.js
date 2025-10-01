@@ -16,6 +16,10 @@ function setup() {
     userInput.input(updateLabel);
 }
 
+function updateLabel() {
+    
+}
+
 function draw() {
     background( colorPicker.value() );
     fill("white")
