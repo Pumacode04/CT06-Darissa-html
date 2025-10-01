@@ -100,7 +100,7 @@ function draw() {
     if (counter === 0) {
         clearInterval( objectId );
         soundsFX.play();
-        secondId = setInter
+        secondId = setInterval( blinkBG, 500);
     }
     
 
