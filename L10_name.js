@@ -1,5 +1,5 @@
 // write your codes here
-let bgColor = "lavender";
+let bgColor = "";
 let colorPicker;
 let username = "Princess Cherry";
 let userInput;
