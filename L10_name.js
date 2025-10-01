@@ -17,7 +17,7 @@ function setup() {
 }
 
 function updateLabel() {
-    
+    username = userInput.value();
 }
 
 function draw() {
