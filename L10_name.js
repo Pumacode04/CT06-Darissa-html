@@ -4,7 +4,6 @@ let colorPicker;
 let username = "Name";
 let userInput;
 let ageInput = "Age";
-let updateAge = 0;
 
 function setup() {
     createCanvas(600, 600);
@@ -27,7 +26,7 @@ function updateLabel() {
 }
 
 function updateAge(){
-    ageInput = ageInput.value();
+    ageInput = ageInput.value(0);
 }
 
 function draw() {
