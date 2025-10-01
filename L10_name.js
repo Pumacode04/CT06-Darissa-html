@@ -3,7 +3,7 @@ let bgColor = "lavender";
 let colorPicker;
 let username = "Name";
 let userInput;
-let ageInput = "Age";
+let ageInput;
 let age = 15;
 
 function setup() {
