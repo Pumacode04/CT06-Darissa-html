@@ -28,6 +28,6 @@ function draw() {
     textSize(32);
     textAlign(CENTER, CENTER);
     text(username, width/2, 150);
-    textSize
+    textSize(18);
     text("Caption:", width/2-200, height/2+100);
 }
