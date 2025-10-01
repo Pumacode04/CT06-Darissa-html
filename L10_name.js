@@ -15,6 +15,8 @@ function setup() {
     userInput= createInput()
     userInput.position( width/2-125, height/2+100);
     userInput.input(updateLabel);
+
+    
 }
 
 function updateLabel() {
