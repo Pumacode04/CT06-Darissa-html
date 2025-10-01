@@ -32,7 +32,7 @@ function draw() {
 
     textAlign(RIGHT, CENTER);
     textSize(18);
-    text("Caption:", width/2-200, height/2+110);
+    text("Name:", width/2-200, height/2+110);
 
     textAlign(RIGHT, CENTER);
     text("Choose Background:", width/2-10, height/2+60);
