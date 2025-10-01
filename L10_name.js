@@ -13,7 +13,7 @@ function setup() {
 
     userInput= createInput()
     userInput.position( width/2-25, height/2+100);
-    userInput.input
+    userInput.input(updateLabel);
 }
 
 function draw() {
