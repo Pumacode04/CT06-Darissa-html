@@ -103,6 +103,11 @@ function draw() {
         secondId = setInterval( blinkBG, 500);
     }
     
+    let blinkCounter = 0;
+
+    function blinkBG() {
+        
+    }
 
 //    let pi = 3.14159267189
 //    pi = nf(pi, 2, 4); // 4 decimal place
