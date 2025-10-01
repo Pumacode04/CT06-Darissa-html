@@ -99,8 +99,8 @@ function draw() {
 
     if (counter === 0) {
         clearInterval( objectId );
-        
         soundsFX.play();
+        
     }
     
 
