@@ -107,7 +107,7 @@ function draw() {
 
     function blinkBG() {
         blibkCounter++;
-        bgColor = color()
+        bgColor = color( random(255), random(255), random(255))
     }
 
 //    let pi = 3.14159267189
