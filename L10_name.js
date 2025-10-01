@@ -40,4 +40,6 @@ function draw() {
 
     textAlign(RIGHT, CENTER);
     text("Choose Background color:", width/2-10, height/2+60);
+
+    text("Age ")
 }
