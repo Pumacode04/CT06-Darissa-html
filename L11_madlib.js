@@ -22,6 +22,7 @@ function updateStory() {
     story = inputSomeText.value();
 
     textAlign(CENTER, CENTER);
+    
     text(story, width/2, height/2);
 }
 
