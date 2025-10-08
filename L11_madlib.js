@@ -32,5 +32,5 @@
 // }
 
 function setup() {
-    
+    createCanvas(224, 226, 22
 }
