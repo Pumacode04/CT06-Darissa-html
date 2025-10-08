@@ -7,7 +7,7 @@ function setup() {
     createCanvas(600, 400);
     background(200);
 
-    inputSomeText = createInput()
+    inputSomeText = createInput();
     inputSomeText.position(width/2, height/2);
 
 }
