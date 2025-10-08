@@ -8,7 +8,8 @@ function setup() {
     background(200);
 
     inputSomeText = createInput()
-    
+    inputSomeText
+
 }
 
 function draw() {
