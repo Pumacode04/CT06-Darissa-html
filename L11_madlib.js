@@ -9,6 +9,7 @@ function setup() {
 
     inputSomeText = createInput();
     inputSomeText.position(width/2, height/2);
+    
 
 }
 
