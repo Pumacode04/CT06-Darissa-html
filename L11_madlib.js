@@ -30,8 +30,10 @@
 // function draw() {
 
 // }
+let button1;
 let inputNoun;
-let noun = "et cetera : Flamingo"
+let noun = "et cetera : Flamingo";
+
 
 function setup() {
     createCanvas(600, 600);
