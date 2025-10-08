@@ -52,7 +52,7 @@ function updateStory() {
     background(224, 226, 255);
     noun = inputNoun.value();
 
-    textsize()
+    textSize(28);
     text(noun, width/2, height/2);
 }
 
