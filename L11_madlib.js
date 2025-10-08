@@ -59,7 +59,7 @@ function updateStory() {
 
     textAlign(RIGHT, CENTER);
     textSize(28);
-    text(noun, width/2, height/2);
+    text(noun, width/2-125, height/2);
 }
 
 function draw() {
