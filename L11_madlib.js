@@ -5,7 +5,7 @@ let story = "Cat : Meow:3";
 
 function setup() {
     createCanvas(600, 400);
-    background(224, 226, );
+    background(224, 226, 255);
 
     inputSomeText = createInput(story, "text");
     inputSomeText.position(50, 50);
@@ -19,6 +19,7 @@ function setup() {
 }
 
 function updateStory() {
+    background
     story = inputSomeText.value();
 
     textAlign(CENTER, CENTER);
