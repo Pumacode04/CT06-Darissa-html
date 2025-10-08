@@ -9,7 +9,7 @@ function setup() {
 
     inputSomeText = createInput(story, "text");
     inputSomeText.position(50, 50);
-    inputSomeText.size(500, 100);
+//    inputSomeText.size(500, 100);
 
     button1 = createButton("Click on me lah");
     button1.position(50, 100);
