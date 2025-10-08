@@ -9,7 +9,7 @@ function setup() {
 
     inputSomeText = createInput();
     inputSomeText.position(width/2, height/2);
-    
+    inputSomeText.size(5000, 100);
 
 }
 
