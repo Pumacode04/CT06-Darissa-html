@@ -30,7 +30,8 @@
 // function draw() {
 
 // }
-
+let inputNoun;
+let 
 
 function setup() {
     createCanvas(600, 600);
