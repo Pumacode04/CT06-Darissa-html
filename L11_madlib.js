@@ -11,7 +11,7 @@ function setup() {
     inputSomeText.position(50, 50);
     inputSomeText.size(500, 100);
 
-    button1 = Button("Click on me lah");
+    button1 = button1("Click on me lah");
     button1.position(50, 100);
     button1.size(100, 50);
 }
