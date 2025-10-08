@@ -42,9 +42,9 @@ function setup() {
     createCanvas(600, 600);
     background(224, 226, 255);
     
-    textSize(24);
-    textAlign(LEFT, CENTER);
-    text("Noun :", width/2-250, height/2-237);
+//    textSize(24);
+//    textAlign(LEFT, CENTER);
+//    text("Noun :", width/2-250, height/2-237);
 
     inputNoun = createInput(noun, "text");
     inputNoun.position(350, 50);
