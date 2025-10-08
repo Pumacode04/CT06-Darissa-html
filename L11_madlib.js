@@ -49,7 +49,7 @@ function setup() {
     inputNoun = createInput(noun, "text");
     inputNoun.position(350, 50);
     
-    input
+    inputVerb = createInput
 
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 100);
