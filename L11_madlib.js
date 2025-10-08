@@ -5,7 +5,7 @@ let story = "Cat : Meow:3";
 
 function setup() {
     createCanvas(600, 400);
-    background(200);
+    background(224, 226, );
 
     inputSomeText = createInput(story, "text");
     inputSomeText.position(50, 50);
