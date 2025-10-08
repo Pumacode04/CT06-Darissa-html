@@ -43,7 +43,8 @@ function setup() {
     inputNoun.position(50, 50);
     
     button1 = createButton("Your kool sentence! :D");
-    button1
+    button1.position(50, 100);
+    buttonS
 }
 
 function updateStory() {
