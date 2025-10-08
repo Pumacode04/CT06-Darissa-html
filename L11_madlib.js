@@ -40,7 +40,7 @@ function setup() {
     background(224, 226, 255);
     
     textSize(14);
-    textAlign(RIGHT, CENTER);
+    textAlign(LEFT, CENTER);
     text("Noun :", width/2, height/2);
 
     inputNoun = createInput(noun, "text");
