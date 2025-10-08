@@ -32,6 +32,6 @@
 // }
 
 function setup() {
-    createCanvas(224, 226, 255);
-    background()
+    createCanvas(600, 600);
+    background(224, 226, 255);
 }
