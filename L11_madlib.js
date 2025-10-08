@@ -51,6 +51,7 @@ function setup() {
 function updateStory() {
     background(224, 226, 255);
     noun = inputSomeText.value();
+    text
 }
 
 function draw() {
