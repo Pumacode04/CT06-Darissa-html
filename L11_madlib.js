@@ -41,7 +41,8 @@ function setup() {
 
     inputNoun = createInput(noun, "text");
     inputNoun.position(50, 50);
-    inputNoun.size
+    
+    button1 = createButton
 }
 
 function updateStory() {
