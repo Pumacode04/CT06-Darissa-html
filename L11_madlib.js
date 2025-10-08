@@ -44,7 +44,7 @@ function setup() {
     
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 100);
-    buttonS
+    button1.size
 }
 
 function updateStory() {
