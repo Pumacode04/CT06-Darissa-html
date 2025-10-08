@@ -42,7 +42,7 @@ function setup() {
     inputNoun = createInput(noun, "text");
     inputNoun.position(50, 50);
     
-    button1 = createButton("Gener")
+    button1 = createButton("Your kool sentence")
 }
 
 function updateStory() {
