@@ -19,7 +19,7 @@ function setup() {
 }
 
 function updateStory() {
-    
+    story = inputSomeText)
 }
 
 function draw() {
