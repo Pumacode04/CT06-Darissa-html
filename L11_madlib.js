@@ -7,7 +7,7 @@ function setup() {
     createCanvas(600, 400);
     background(200);
 
-    inputSomeText = createInput();
+    inputSomeText = createInput(story, "text");
     inputSomeText.position(50, 50);
     inputSomeText.size(500, 100);
 
