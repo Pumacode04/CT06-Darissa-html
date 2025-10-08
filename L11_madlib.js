@@ -49,6 +49,7 @@ function setup() {
 }
 
 function updateStory() {
+    background(224, 226, 255);
     
 }
 
