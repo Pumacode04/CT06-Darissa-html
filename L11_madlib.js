@@ -19,7 +19,7 @@ function setup() {
 }
 
 function updateStory() {
-    background
+    background(224, 226, 255);
     story = inputSomeText.value();
 
     textAlign(CENTER, CENTER);
