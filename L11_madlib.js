@@ -42,7 +42,7 @@ function setup() {
     inputNoun = createInput(noun, "text");
     inputNoun.position(50, 50);
     
-    text
+    textAlign()
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 100);
     button1.size(100, 50);
