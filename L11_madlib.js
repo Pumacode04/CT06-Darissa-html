@@ -68,8 +68,8 @@ function updateStory() {
 //    textAlign(RIGHT, CENTER);
 //    textSize(28);
 //    text(noun, width/2, height/2);
-    console.log(inputnoun.value());
-    console.log(inputverb.value())
+    console.log(inputNoun.value());
+    console.log(inputVerb.value())
 }
 
 function draw() {
