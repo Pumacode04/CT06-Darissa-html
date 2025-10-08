@@ -12,7 +12,7 @@ function setup() {
     inputSomeText.size(500, 100);
 
     button1 = Button("Click on me lah");
-    button1.postition
+    button1.position()
 }
 
 function draw() {
