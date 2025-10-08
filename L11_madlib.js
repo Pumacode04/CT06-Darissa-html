@@ -31,9 +31,11 @@
 
 // }
 let button1;
+
 let inputNoun;
 let noun = "et cetera : Flamingo";
 
+let inputVerb;
 let
 
 function setup() {
