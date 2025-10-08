@@ -19,7 +19,9 @@ function setup() {
 }
 
 function updateStory() {
-    story = inputSomeText)
+    story = inputSomeText.value();
+
+    textAlign
 }
 
 function draw() {
