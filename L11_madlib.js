@@ -39,7 +39,8 @@ function setup() {
     createCanvas(600, 600);
     background(224, 226, 255);
 
-    inputNoun = createInput(noun, "text")
+    inputNoun = createInput(noun, "text");
+    inpuit
 }
 
 function updateStory() {
