@@ -49,6 +49,7 @@ function setup() {
     inputNoun = createInput(noun, "text");
     inputNoun.position(350, 50);
     
+    textAlign(LEFT, CENTER);
     
 
     inputVerb = createInput(verb, "text");
