@@ -50,7 +50,7 @@ function setup() {
     inputNoun.position(350, 50);
     
     textAlign(LEFT, CENTER);
-    text("Verb :", width/2-250, )
+    text("Verb :", width/2-250, height/2-)
 
     inputVerb = createInput(verb, "text");
     inputNoun.position(350, 100);
