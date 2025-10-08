@@ -31,6 +31,7 @@
 
 // }
 
+
 function setup() {
     createCanvas(600, 600);
     background(224, 226, 255);
@@ -41,5 +42,5 @@ function updateStory() {
 }
 
 function draw() {
-    
+
 }
