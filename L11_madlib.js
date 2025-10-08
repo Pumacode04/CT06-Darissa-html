@@ -50,7 +50,7 @@ function setup() {
 
 function updateStory() {
     background(224, 226, 255);
-    noun = inputSome
+    noun = inputSomeText.value();
 }
 
 function draw() {
