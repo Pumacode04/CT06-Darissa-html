@@ -14,6 +14,7 @@ function setup() {
     button1 = createButton("Click on me lah");
     button1.position(50, 100);
     button1.size(100, 50);
+    button1.mousePressed(update)
 }
 
 function draw() {
