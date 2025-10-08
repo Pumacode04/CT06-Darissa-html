@@ -34,6 +34,7 @@ let button1;
 let inputNoun;
 let noun = "et cetera : Flamingo";
 
+let
 
 function setup() {
     createCanvas(600, 600);
@@ -47,7 +48,7 @@ function setup() {
     inputNoun.position(350, 50);
     
     
-    
+
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 100);
     button1.size(100, 50);
