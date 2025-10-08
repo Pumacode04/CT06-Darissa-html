@@ -71,5 +71,9 @@ function updateStory() {
 }
 
 function draw() {
+    textSize(24);
+    textAlign(LEFT, CENTER);
+    text("Noun :", width/2-250, height/2-237);
 
+    
 }
