@@ -75,5 +75,7 @@ function draw() {
     textAlign(LEFT, CENTER);
     text("Noun :", width/2-250, height/2-237);
 
-    
+    textAlign(LEFT, CENTER);
+    text("Verb :", width/2-250, height/2-187);
+
 }
