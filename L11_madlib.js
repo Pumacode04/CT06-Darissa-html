@@ -36,7 +36,7 @@ let inputNoun;
 let noun = "et cetera : Flamingo";
 
 let inputVerb;
-let verb;
+let verb = "et cetera : D";
 
 function setup() {
     createCanvas(600, 600);
