@@ -8,7 +8,7 @@ function setup() {
     background(200);
 
     inputSomeText = createInput()
-    inputSomeText.position()
+    inputSomeText.position(width/2, height/2);
 
 }
 
