@@ -46,11 +46,10 @@ function setup() {
     button1.position(50, 100);
     button1.size(100, 50);
     button1.mousePressed(updateStory);
-    
 }
 
 function updateStory() {
-
+    
 }
 
 function draw() {
