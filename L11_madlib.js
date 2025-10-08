@@ -41,7 +41,7 @@ function setup() {
     
     textSize(14);
     textAlign(LEFT, CENTER);
-    text("Noun :", width/2, height/2);
+    text("Noun :", width/2-100, height/2);
 
     inputNoun = createInput(noun, "text");
     inputNoun.position(350, 50);
