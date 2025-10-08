@@ -1,5 +1,5 @@
 // write your codes here
-
+let inputSomeText;
 
 function setup() {
     createCanvas(600, 400);
