@@ -53,7 +53,7 @@ function setup() {
     text("Verb :", width/2-250, height/2-187);
 
     inputVerb = createInput(verb, "text");
-    inputNoun.position(350, 100);
+    inputVerb.position(350, 100);
 
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 150);
