@@ -22,6 +22,7 @@ function updateStory() {
     story = inputSomeText.value();
 
     textAlign(CENTER, CENTER);
+    text
 }
 
 function draw() {
