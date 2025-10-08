@@ -40,7 +40,7 @@ function setup() {
     background(224, 226, 255);
 
     inputNoun = createInput(noun, "text");
-    inputNoun.position(50, 50);
+    inputNoun.position(350, 50);
     
     
     button1 = createButton("Your kool sentence! :D");
