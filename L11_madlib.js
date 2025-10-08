@@ -39,7 +39,8 @@ function setup() {
     createCanvas(600, 600);
     background(224, 226, 255);
 
-    text("Noun :", width/2, )
+    textAlign()
+    text("Noun :", width/2, height/2);
 
     inputNoun = createInput(noun, "text");
     inputNoun.position(350, 50);
