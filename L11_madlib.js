@@ -11,7 +11,7 @@ function setup() {
     inputSomeText.position(50, 50);
     inputSomeText.size(500, 100);
 
-    
+    button1 = create
 }
 
 function draw() {
