@@ -40,7 +40,7 @@ function setup() {
     background(224, 226, 255);
 
     inputNoun = createInput(noun, "text");
-    inpuit
+    inputNoun.position()
 }
 
 function updateStory() {
