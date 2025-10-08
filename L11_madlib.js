@@ -38,6 +38,8 @@ let noun = "et cetera : Flamingo";
 function setup() {
     createCanvas(600, 600);
     background(224, 226, 255);
+
+    inputNoun()
 }
 
 function updateStory() {
