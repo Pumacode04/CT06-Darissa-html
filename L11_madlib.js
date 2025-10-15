@@ -81,10 +81,10 @@ function setup() {
     button1.mousePressed(updateStory);
 
     templates = [
-        "The {adjective} {noun} is {verb}{adverb} at the {place}",
+        "The {adjective} {noun} is {verb} {adverb} at the {place}",
         "One day, a {adjective} {noun} goes to the {place}",
         "Did you hear 'bout the {adjective} {noun} that tried to {verb} {adverb} near {place}",
-        "{adverb}, "
+        "{adverb}, the {ajective} {"
     ];
 
     let selection = random(templates);
