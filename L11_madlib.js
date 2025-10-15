@@ -75,7 +75,7 @@ function setup() {
     button1.mousePressed(updateStory);
 
     templates = [
-        "{",
+        "",
         "",
         "",
     ];
