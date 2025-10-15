@@ -116,8 +116,8 @@ function updateStory() {
 function draw() {
     background(224, 226, 255);
 
+    fill("Black");
 
-    
     textSize(24);
     textAlign(LEFT, CENTER);
     text("Noun :", width/2-250, height/2-237);
