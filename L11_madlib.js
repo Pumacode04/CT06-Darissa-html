@@ -39,8 +39,10 @@ let inputVerb;
 let verb = "et cetera : Fell";
 
 let inputAdjective;
-let adjective = "et cetera : Pi"
+let adjective = "et cetera : Pink";
+
 let inputAdverb;
+
 
 let inputPlace;
 
