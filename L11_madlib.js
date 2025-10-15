@@ -47,7 +47,7 @@ let adverb = "et cetera : softly";
 let inputPlace;
 let place = "et cetera : computer lab";
 
-
+let templates;
 
 function setup() {
     createCanvas(600, 600);
