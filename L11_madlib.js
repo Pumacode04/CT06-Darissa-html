@@ -121,5 +121,5 @@ function draw() {
     text("Adverb :", width/2-250, height/2-87);
 
     textAlign(LEFT, CENTER);
-    text("Place :", width/2-250, height/2-87);
+    text("Place :", width/2-250, height/2-37);
 }
