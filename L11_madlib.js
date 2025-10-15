@@ -90,7 +90,7 @@ function setup() {
     console.log("selection: " + selection); //+ string concatenation
     story = selection.replace("{adjective}", "tall");
     story = story.replace(  "{noun}",   "boy");
-    story = story.replace(  "{verb}",   "trugde ");
+    story = story.replace(  "{verb}",   "trugding ");
     story = story.replace(  "{adverb}",   "hesitantly");
     story = story.replace(  "{place}",   "pincipal's office");
 
