@@ -145,5 +145,5 @@ function draw() {
     rect(width/2-250, height/2+57, 500, 200, 25);
 
     fill("Black");
-    text("")
+    text()
 }
