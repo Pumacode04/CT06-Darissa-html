@@ -91,7 +91,7 @@ function setup() {
     story = selection.replace("{adjective}", tall);
     story = story.replace(  "{noun}",   "man");
     story = story.replace(  "{verb}",   "trudge");
-    story = story.replace(  "{adverb}",   "man");
+    story = story.replace(  "{adverb}",   "");
     story = story.replace(  "{place}",   "trudge");
 
 
