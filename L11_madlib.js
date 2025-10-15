@@ -145,7 +145,7 @@ function draw() {
     rect(width/2-250, height/2+57, 500, 200, 25);
 
     textAlign(CENTER, CENTER);
-    textSize(14);
+    textSize(18);
     fill("Black");
     text(story, width/2, height/2+57);
 }
