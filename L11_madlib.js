@@ -67,7 +67,6 @@ function setup() {
     inputAdverb = createInput(adverb, "text");
     inputAdverb.position(350, 150);
 
-    
 
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 150);
@@ -97,4 +96,5 @@ function draw() {
     textAlign(LEFT, CENTER);
     text("Verb :", width/2-250, height/2-187);
 
+    text
 }
