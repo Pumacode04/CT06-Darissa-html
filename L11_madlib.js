@@ -67,6 +67,8 @@ function setup() {
     inputAdverb = createInput(adverb, "text");
     inputAdverb.position(350, 150);
 
+    inputAdverb = createInput(adverb, "text");
+    inputAdverb.position(350, 150);
 
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 200);
