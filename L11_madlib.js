@@ -48,7 +48,6 @@ let inputPlace;
 let place = "et cetera : computer lab";
 
 let templates;
-let selection = random(templates);
 
 function setup() {
     createCanvas(600, 600);
@@ -145,5 +144,5 @@ function draw() {
     fill("white")
     rect(width/2-250, height/2+57, 500, 200, 25);
 
-    
+
 }
