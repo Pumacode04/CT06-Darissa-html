@@ -67,6 +67,8 @@ function setup() {
     inputAdverb = createInput(adverb, "text");
     inputAdverb.position(350, 150);
 
+    
+
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 150);
     button1.size(100, 50);
@@ -82,7 +84,7 @@ function updateStory() {
 //    text(noun, width/2, height/2);
     console.log(inputNoun.value());
     console.log(inputVerb.value());
-    console.log(inputAdverb)
+    console.log(inputAdverb.value());
 }
 
 function draw() {
