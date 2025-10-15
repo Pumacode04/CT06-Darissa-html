@@ -83,7 +83,7 @@ function setup() {
     templates = [
         "The {adv} {noun} is {verb}{adverb} at the {place}",
         "One day, a {adj} {noun} goes to the {place}",
-        "",
+        "Did you heart 'bout",
     ];
 }
 
