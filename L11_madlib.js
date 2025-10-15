@@ -73,6 +73,10 @@ function setup() {
     button1.position(50, 200);
     button1.size(100, 50);
     button1.mousePressed(updateStory);
+
+    templates = [
+        ""
+    ]
 }
 
 function updateStory() {
