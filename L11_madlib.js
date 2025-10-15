@@ -100,7 +100,7 @@ function updateStory() {
     console.log(inputVerb.value());
     console.log(inputAdjective.value());
     console.log(inputAdverb.value());
-    console.log
+    console.log(inputPlace.value())
 }
 
 function draw() {
