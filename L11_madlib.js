@@ -94,7 +94,7 @@ function setup() {
     story = story.replace(  "{adverb}",   "hesitantly");
     story = story.replace(  "{place}",   "pincipal's office");
 
-    console.log
+    console.log("story is:" + story);
 
 }
 
