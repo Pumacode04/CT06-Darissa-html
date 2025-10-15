@@ -84,14 +84,14 @@ function setup() {
         "The {adjective} {noun} is {verb} {adverb} at the {place}",
         "One day, a {adjective} {noun} goes to the {place}",
         "Did you hear 'bout the {adjective} {noun} that tried to {verb} {adverb} near {place}",
-        "{adverb}, the {ajective} {"
+        "{adverb}, the {adjective}} {"
     ];
 
     let selection = random(templates);
     console.log("selection: " + selection); //+ string concatenation
     story = selection.replace("{adjective}", "tall");
     story = story.replace(  "{noun}",   "boy");
-    story = story.replace(  "{verb}",   "doing ballet ");
+    story = story.replace(  "{verb}",   "doing ballet");
     story = story.replace(  "{adverb}",   "hesitantly");
     story = story.replace(  "{place}",   "pincipal's office");
 
