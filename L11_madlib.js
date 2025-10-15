@@ -75,7 +75,7 @@ function setup() {
     button1.mousePressed(updateStory);
 
     templates = [
-        "The {adv} {noun} is {verb} at the ",
+        "The {adv} {noun} is {verb} at the {place}",
         "",
         "",
     ];
@@ -104,5 +104,5 @@ function draw() {
     text("Verb :", width/2-250, height/2-187);
 
     textAlign(LEFT, CENTER);
-    text("Adverb :", width/2-250, height/2-137);
+    text("Ad :", width/2-250, height/2-137);
 }
