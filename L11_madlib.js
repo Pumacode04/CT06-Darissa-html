@@ -81,7 +81,7 @@ function setup() {
     button1.mousePressed(updateStory);
 
     templates = [
-        "The {adv} {noun} is {verb}{adverb} at the {place}",
+        "The {adj} {noun} is {verb}{adverb} at the {place}",
         "One day, a {adj} {noun} goes to the {place}",
         "Did you hear 'bout the {adj} {noun} that tried to {verb} {adverb} near {place}",
     ];
@@ -94,6 +94,7 @@ function setup() {
     story = story.replace(  "{adverb}",   "hesitantly");
     story = story.replace(  "{place}",   "pincipal's office");
 
+    console.log
 
 }
 
