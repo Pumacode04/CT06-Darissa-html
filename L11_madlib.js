@@ -92,7 +92,7 @@ function setup() {
     story = story.replace(  "{noun}",   "man");
     story = story.replace(  "{verb}",   "trudge");
     story = story.replace(  "{adverb}",   "hesitantly");
-    story = story.replace(  "{place}",   "");
+    story = story.replace(  "{place}",   "pincipal's office");
 
 
 }
