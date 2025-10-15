@@ -109,4 +109,7 @@ function draw() {
 
     textAlign(LEFT, CENTER);
     text("Adjective :", width/2-250, height/2-137);
+
+    textAlign(LEFT, CENTER);
+    text("Ad :", width/2-250, height/2-137);
 }
