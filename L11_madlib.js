@@ -97,5 +97,4 @@ function draw() {
     text("Verb :", width/2-250, height/2-187);
 
     text("Adverb :", width/2-250, height/2-137);
-    text
 }
