@@ -42,7 +42,7 @@ let inputAdjective;
 let adjective = "et cetera : Pink";
 
 let inputAdverb;
-
+let adverb = "softly"
 
 let inputPlace;
 
