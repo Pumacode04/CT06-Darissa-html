@@ -135,5 +135,5 @@ function draw() {
     text("Place :", width/2-250, height/2-37);
 
     fill("white")
-    rect(width/2-250, height/2+27, 400, 200, 25);
+    rect(width/2-250, height/2+27, 500, 200, 25);
 }
