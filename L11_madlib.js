@@ -88,7 +88,7 @@ function setup() {
 
     let selection = random(templates);
     console.log("selection: " + selection); //+ string concatenation
-    story = selection.replace
+    story = selection.replace("{adjective")
 }
 
 function updateStory() {
