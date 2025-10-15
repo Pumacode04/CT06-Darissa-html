@@ -42,7 +42,7 @@ let inputAdjective;
 let adjective = "et cetera : Pink";
 
 let inputAdverb;
-let adverb = "softly";
+let adverb = "et cetera : softly";
 
 let inputPlace;
 let place = "et cetera : computer lab";
@@ -64,7 +64,7 @@ function setup() {
     inputVerb = createInput(verb, "text");
     inputVerb.position(350, 100);
 
-    input
+    inputAdverb 
 
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 150);
