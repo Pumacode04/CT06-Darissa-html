@@ -92,7 +92,7 @@ function setup() {
     story = selection.replace("{adjective}", "tall");
     story = story.replace(  "{noun}",   "boy");
     story = story.replace(  "{verb}",   "doing ballet");
-    story = story.replace(  "{adverb}",   "hesitantly");
+    story = story.replace(  "{adverb}",   "proudly");
     story = story.replace(  "{place}",   "pincipal's office");
 
     console.log("story is: " + story);
