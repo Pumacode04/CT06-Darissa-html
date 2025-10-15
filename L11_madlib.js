@@ -36,7 +36,7 @@ let inputNoun;
 let noun = "et cetera : Flamingo";
 
 let inputVerb;
-let verb = "et cetera : fell";
+let verb = "et cetera : falling";
 
 let inputAdjective;
 let adjective = "et cetera : pink";
