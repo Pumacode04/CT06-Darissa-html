@@ -86,7 +86,7 @@ function setup() {
         "Did you hear 'bout the {adj} {noun} that tried to {verb} {adverb} near {place}",
     ];
 
-    
+    let selection = random(templates);
 }
 
 function updateStory() {
