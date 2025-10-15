@@ -82,7 +82,7 @@ function updateStory() {
 //    text(noun, width/2, height/2);
     console.log(inputNoun.value());
     console.log(inputVerb.value());
-    console.log
+    console.log()
 }
 
 function draw() {
