@@ -40,7 +40,9 @@ let verb = "et cetera : Fell";
 
 let inputAdjective;
 
-let
+let inputAdverb;
+
+let inputPlace;
 
 function setup() {
     createCanvas(600, 600);
