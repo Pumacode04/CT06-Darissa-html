@@ -94,6 +94,7 @@ function updateStory() {
     console.log(inputNoun.value());
     console.log(inputVerb.value());
     console.log(inputAdjective.value());
+    
 }
 
 function draw() {
