@@ -84,7 +84,7 @@ function setup() {
         "The {adjective} {noun} is {verb} {adverb} at the {place}",
         "One day, a {adjective} {noun} goes to the {place}",
         "Did you hear 'bout the {adjective} {noun} that tried to {verb} {adverb} near {place}",
-        "{adverb}, the {adjective} {noun} "
+        "{adverb}, the {adjective} {noun} started {"
     ];
 
     let selection = random(templates);
