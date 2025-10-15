@@ -61,6 +61,8 @@ function setup() {
     inputVerb = createInput(verb, "text");
     inputVerb.position(350, 100);
 
+    
+
     button1 = createButton("Your kool sentence! :D");
     button1.position(50, 150);
     button1.size(100, 50);
