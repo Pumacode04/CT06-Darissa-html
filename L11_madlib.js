@@ -87,7 +87,7 @@ function setup() {
     ];
 
     let selection = random(templates);
-    console.log()
+    console.log("selection: ")
 }
 
 function updateStory() {
