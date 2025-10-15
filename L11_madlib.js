@@ -114,7 +114,7 @@ function updateStory() {
 
     story = selection.replace("{adjective}", inputAdjective.value());
     story = story.replace(  "{noun}",   inputNoun.value());
-    story = story.replace(  "{verb}",   "doing ballet");
+    story = story.replace(  "{verb}",   inputVerb.value());
     story = story.replace(  "{adverb}",   "proudly");
     story = story.replace(  "{place}",   "pincipal's office");
 
