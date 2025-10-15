@@ -120,6 +120,6 @@ function draw() {
     textAlign(LEFT, CENTER);
     text("Adverb :", width/2-250, height/2-87);
 
-    inputAdverb = createInput(adverb, "text");
-    inputAdverb.position(350, 200);
+    textAlign(LEFT, CENTER);
+    text("Adverb :", width/2-250, height/2-87);
 }
