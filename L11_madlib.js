@@ -112,8 +112,8 @@ function updateStory() {
     console.log(inputAdverb.value());
     console.log(inputPlace.value());
 
-    story = selection.replace("{adjective}", "tall");
-    story = story.replace(  "{noun}",   "boy");
+    story = selection.replace("{adjective}", inputAdjective.value());
+    story = story.replace(  "{noun}",   inputNoun.value());
     story = story.replace(  "{verb}",   "doing ballet");
     story = story.replace(  "{adverb}",   "proudly");
     story = story.replace(  "{place}",   "pincipal's office");
