@@ -90,6 +90,7 @@ function setup() {
     console.log("selection: " + selection); //+ string concatenation
     story = selection.replace("{adjective}", tall);
     
+
 }
 
 function updateStory() {
