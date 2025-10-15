@@ -96,5 +96,5 @@ function draw() {
     textAlign(LEFT, CENTER);
     text("Verb :", width/2-250, height/2-187);
 
-    text
+    text("Adverb :", width/2-250)
 }
