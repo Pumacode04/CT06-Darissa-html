@@ -75,7 +75,7 @@ function setup() {
     button1.mousePressed(updateStory);
 
     templates = [
-        "The {adv} {noun}",
+        "The {adv} {noun} is {verb} at the ",
         "",
         "",
     ];
