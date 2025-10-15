@@ -42,9 +42,10 @@ let inputAdjective;
 let adjective = "et cetera : Pink";
 
 let inputAdverb;
-let adverb = "softly"
+let adverb = "softly";
 
 let inputPlace;
+
 
 function setup() {
     createCanvas(600, 600);
