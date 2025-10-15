@@ -88,8 +88,8 @@ function setup() {
 
     let selection = random(templates);
     console.log("selection: " + selection); //+ string concatenation
-    story = selection.replace("{adjective}", tall);
-    story = story.replace(  "{noun}",   "man");
+    story = selection.replace("{adjective}", "tall");
+    story = story.replace(  "{noun}",   "boy");
     story = story.replace(  "{verb}",   "trudge");
     story = story.replace(  "{adverb}",   "hesitantly");
     story = story.replace(  "{place}",   "pincipal's office");
