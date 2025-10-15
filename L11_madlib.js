@@ -45,7 +45,7 @@ let inputAdverb;
 let adverb = "softly";
 
 let inputPlace;
-
+let place = ""
 
 function setup() {
     createCanvas(600, 600);
