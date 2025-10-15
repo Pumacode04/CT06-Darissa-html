@@ -131,4 +131,7 @@ function draw() {
 
     textAlign(LEFT, CENTER);
     text("Place :", width/2-250, height/2-37);
+
+    fill("white")
+    rect(100, 100, 400, 200, 25);
 }
