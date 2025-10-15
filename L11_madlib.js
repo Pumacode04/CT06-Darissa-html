@@ -117,7 +117,7 @@ function updateStory() {
     story = story.replace(  "{verb}",   inputVerb.value());
     story = story.replace(  "{adverb}",   inputAdverb.value());
     story = story.replace(  "{place}",   "pincipal's office");
-
+    let selection = random(templates);
 }
 
 function draw() {
