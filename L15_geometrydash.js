@@ -5,6 +5,6 @@ function setup() {
 }
 
 function draw() {
-    fill("")
+    fill("crimson");
     rect(25, 700, 975, 700);
 }
