@@ -15,5 +15,5 @@ function draw() {
 
 function drawSpike(x1, x2, y1, y2) {
     fill("lightblue");
-    triangle(0, )
+    triangle(0, 675, 100, 77)
 }
