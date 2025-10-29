@@ -10,7 +10,7 @@ function draw() {
 
     //player
     fill("limegreen");
-    rect(100, 900, 50, 50);
+    rect(100, 625, 50, 50);
     fill(255, 0, 0);
 
     drawSpike(); //spike triangle
