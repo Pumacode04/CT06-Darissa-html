@@ -21,7 +21,7 @@ function drawSpike() {
 //    triangle(825, 675, 850, 600, 875, 675); 
     // above : triangle(change,675,change,600,change,675)
 
-    x3 = x1-
+    x3 = x2-x1 /
     fill("red");
     triangle(x1, y1, x3, y2, x2, y1);
 }
