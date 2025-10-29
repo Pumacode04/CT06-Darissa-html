@@ -13,7 +13,7 @@ function draw() {
     rect(100, 625, 50, 50); //rect(100, height, 50, 50)
     fill(255, 0, 0);
 
-    drawSpike(); //spike triangle
+    drawSpike(825, 875, ); //spike triangle
 }
 
 function drawSpike(x1, x2, y1, y2) {
