@@ -12,7 +12,7 @@ function draw() {
     fill("limegreen");
     rect(width/2, height/2, 50, 50);
     fill(255, 0, 0);
-    drawSpike(850, 880, 675, 620);
+    drawSpike(800, 880, 675, 620);
 }
 
 function drawSpike(x1, x2, y1, y2) {
