@@ -17,5 +17,5 @@ function draw() {
 
 function drawSpike() {
     fill("blue");
-    triangle(825, 675, 875, 575, 925, 700);
+    triangle(825, 675, 875, 550, 925, 675);
 }
