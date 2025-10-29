@@ -12,10 +12,10 @@ function draw() {
     fill("limegreen");
     rect(width/2, height/2, 50, 50);
     fill(255, 0, 0);
-    drawSpike(800, 880, 600, 550);
+    drawSpike
 }
 
-function drawSpike(x1, x2, y1, y2) {
+function drawSpike() {
     fill("blue");
     triangle(x1, y1, x2-x1/2, y2, x2, y1);
 }
