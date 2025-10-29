@@ -9,7 +9,7 @@ function draw() {
     rect(0, 675, 1000, 25); //floor
 
     //player
-    fill("blue");
+    fill("green");
     rect(width/2, height/2, 50, 50);
 }
 
