@@ -11,7 +11,7 @@ function draw() {
     //player
     fill("limegreen");
     rect(width/2, height/2, 50, 50);
-    drawSpike(850, )
+    drawSpike(850, 675, )
 }
 
 function drawSpike(x1, x2, y1, y2) {
