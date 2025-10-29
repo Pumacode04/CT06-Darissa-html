@@ -5,5 +5,6 @@ function setup() {
 }
 
 function draw() {
+    fill
     rect(25, 700, 975, 700);
 }
