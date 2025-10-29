@@ -5,11 +5,11 @@ function setup() {
 }
 
 function draw() {
-    fill();
+    fill(255, 0, 0);
     rect(0, 675, 1000, 25); //floor
 
     //player
-    fill("pink");
+    fill("noenblue");
     rect(width/2, height/2, 50, 50);
 }
 
