@@ -6,5 +6,6 @@ function setup() {
 
 function draw() {
     fill("red");
-    rect(0, 675, 1000, 25);
+    rect(0, 675, 1000, 25); //floor
+    
 }
