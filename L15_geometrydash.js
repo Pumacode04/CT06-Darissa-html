@@ -9,5 +9,5 @@ function draw() {
     rect(0, 675, 1000, 25); //floor
 
     //player
-    
+    rect
 }
