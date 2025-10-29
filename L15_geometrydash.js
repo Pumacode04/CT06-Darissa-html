@@ -14,5 +14,5 @@ function draw() {
 }
 
 function drawSpike() {
-    
+    fill("")
 }
