@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-    fill("red");
+    fill();
     rect(0, 675, 1000, 25); //floor
 
     //player
